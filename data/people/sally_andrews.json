@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_andrews",
+  "name": "Sally Andrews",
+  "external_ids": {
+    "wikidata": "Q12050861",
+    "imdb": "nm1073981"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

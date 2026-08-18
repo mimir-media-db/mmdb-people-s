@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_pillsbury",
+  "name": "Sam Pillsbury",
+  "external_ids": {
+    "wikidata": "Q7408020",
+    "imdb": "nm0683578"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

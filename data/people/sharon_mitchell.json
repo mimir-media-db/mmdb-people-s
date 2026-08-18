@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sharon_mitchell",
+  "name": "Sharon Mitchell",
+  "external_ids": {
+    "wikidata": "Q448414",
+    "imdb": "nm0593722"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

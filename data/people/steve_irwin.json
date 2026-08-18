@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_irwin",
+  "name": "Steve Irwin",
+  "external_ids": {
+    "wikidata": "Q126513",
+    "imdb": "nm0410455"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962,
+  "death_year": 2006
+}

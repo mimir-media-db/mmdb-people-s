@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sabine_bach",
+  "name": "Sabine Bach",
+  "external_ids": {
+    "wikidata": "Q2209599",
+    "imdb": "nm0045354"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

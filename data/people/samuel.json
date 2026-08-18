@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel",
+  "name": "Samuel",
+  "external_ids": {
+    "wikidata": "Q3946655",
+    "imdb": "nm1932445"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

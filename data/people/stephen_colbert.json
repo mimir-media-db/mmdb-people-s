@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stephen_colbert",
+  "name": "Stephen Colbert",
+  "external_ids": {
+    "wikidata": "Q212886",
+    "imdb": "nm0170306"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

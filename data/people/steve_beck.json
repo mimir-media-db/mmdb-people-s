@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_beck",
+  "name": "Steve Beck",
+  "external_ids": {
+    "wikidata": "Q2031570",
+    "imdb": "nm0065284"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}
