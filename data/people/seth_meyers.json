@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seth_meyers",
+  "name": "Seth Meyers",
+  "external_ids": {
+    "wikidata": "Q14536",
+    "imdb": "nm1024878"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

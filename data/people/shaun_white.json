@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_shaun_white",
+  "name": "Shaun White",
+  "external_ids": {
+    "wikidata": "Q288656",
+    "imdb": "nm1027039"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

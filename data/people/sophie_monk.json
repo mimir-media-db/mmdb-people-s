@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sophie_monk",
+  "name": "Sophie Monk",
+  "external_ids": {
+    "wikidata": "Q189132",
+    "imdb": "nm0598241"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

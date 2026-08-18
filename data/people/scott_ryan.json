@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_ryan",
+  "name": "Scott Ryan",
+  "external_ids": {
+    "wikidata": "Q60734347",
+    "imdb": "nm1938432"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

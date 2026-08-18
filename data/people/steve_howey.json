@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_howey",
+  "name": "Steve Howey",
+  "external_ids": {
+    "wikidata": "Q1285062",
+    "imdb": "nm0992538"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

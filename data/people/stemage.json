@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stemage",
+  "name": "Stemage",
+  "external_ids": {
+    "wikidata": "Q45933921",
+    "imdb": "nm2052368"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

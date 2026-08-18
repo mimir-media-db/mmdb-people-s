@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_mackey",
+  "name": "Steve Mackey",
+  "external_ids": {
+    "wikidata": "Q7613221",
+    "imdb": "nm1009721"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966,
+  "death_year": 2023
+}

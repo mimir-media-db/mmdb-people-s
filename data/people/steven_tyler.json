@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steven_tyler",
+  "name": "Steven Tyler",
+  "external_ids": {
+    "wikidata": "Q194045",
+    "imdb": "nm0878911"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

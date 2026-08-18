@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stone_cold_steve_austin",
+  "name": "Stone Cold Steve Austin",
+  "external_ids": {
+    "wikidata": "Q44313",
+    "imdb": "nm0042524"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

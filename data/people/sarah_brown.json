@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_brown",
+  "name": "Sarah Brown",
+  "external_ids": {
+    "wikidata": "Q3950320",
+    "imdb": "nm0114638"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}
