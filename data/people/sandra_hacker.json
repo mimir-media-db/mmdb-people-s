@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sandra_hacker",
+  "name": "Sandra Hacker",
+  "external_ids": {
+    "wikidata": "Q33035207",
+    "imdb": "nm1350535"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
