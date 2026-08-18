@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sacha_briquet",
+  "name": "Sacha Briquet",
+  "external_ids": {
+    "wikidata": "Q2523671",
+    "imdb": "nm0109762"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2010
+}

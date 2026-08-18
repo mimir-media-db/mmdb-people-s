@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_plum",
+  "name": "Simon Plum",
+  "external_ids": {
+    "wikidata": "Q17130790",
+    "imdb": "nm0687561"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

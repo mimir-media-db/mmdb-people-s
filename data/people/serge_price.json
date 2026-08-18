@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_serge_price",
+  "name": "Serge Price",
+  "external_ids": {
+    "wikidata": "Q608912",
+    "imdb": "nm1116000"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1991
+}

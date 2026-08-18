@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sage_kirkpatrick",
+  "name": "Sage Kirkpatrick",
+  "external_ids": {
+    "wikidata": "Q3461377",
+    "imdb": "nm0456733"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}
