@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samantha_bee",
+  "name": "Samantha Bee",
+  "external_ids": {
+    "wikidata": "Q4273978",
+    "imdb": "nm1200650"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

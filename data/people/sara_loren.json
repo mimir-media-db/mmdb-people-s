@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sara_loren",
+  "name": "Sara Loren",
+  "external_ids": {
+    "wikidata": "Q7421693",
+    "imdb": "nm3872330"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}
