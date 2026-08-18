@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seu_jorge",
+  "name": "Seu Jorge",
+  "external_ids": {
+    "wikidata": "Q953450",
+    "imdb": "nm1179580"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

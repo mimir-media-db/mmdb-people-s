@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel_johnson",
+  "name": "Samuel Johnson",
+  "external_ids": {
+    "wikidata": "Q1255535",
+    "imdb": "nm0426170"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

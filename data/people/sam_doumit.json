@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_doumit",
+  "name": "Sam Doumit",
+  "external_ids": {
+    "wikidata": "Q2628608",
+    "imdb": "nm0235408"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

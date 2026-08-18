@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_stephen_moore",
+  "name": "Stephen Moore",
+  "external_ids": {
+    "wikidata": "Q2344985",
+    "imdb": "nm0601891"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2019
+}
