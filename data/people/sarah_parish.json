@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_parish",
+  "name": "Sarah Parish",
+  "external_ids": {
+    "wikidata": "Q500022",
+    "imdb": "nm0661703"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scot_williams",
+  "name": "Scot Williams",
+  "external_ids": {
+    "wikidata": "Q1812300",
+    "imdb": "nm0931656"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}
