@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_dede",
+  "name": "Sam Dede",
+  "external_ids": {
+    "wikidata": "Q17579950",
+    "imdb": "nm2120516"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

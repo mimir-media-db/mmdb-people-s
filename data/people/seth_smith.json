@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seth_smith",
+  "name": "Seth Smith",
+  "external_ids": {
+    "wikidata": "Q3958287",
+    "imdb": "nm0809914"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

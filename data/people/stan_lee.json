@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_stan_lee",
+  "name": "Stan Lee",
+  "external_ids": {
+    "wikidata": "Q181900",
+    "imdb": "nm0498278"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 2018
+}

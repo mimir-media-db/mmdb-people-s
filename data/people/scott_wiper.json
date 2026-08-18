@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_wiper",
+  "name": "Scott Wiper",
+  "external_ids": {
+    "wikidata": "Q7437538",
+    "imdb": "nm0007045"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

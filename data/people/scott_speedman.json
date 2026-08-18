@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_speedman",
+  "name": "Scott Speedman",
+  "external_ids": {
+    "wikidata": "Q336131",
+    "imdb": "nm0005454"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

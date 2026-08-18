@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_suresh",
+  "name": "Suresh",
+  "external_ids": {
+    "wikidata": "Q7645716",
+    "imdb": "nm0839596"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

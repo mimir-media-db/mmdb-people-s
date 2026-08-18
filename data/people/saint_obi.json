@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_saint_obi",
+  "name": "Saint Obi",
+  "external_ids": {
+    "wikidata": "Q7401964",
+    "imdb": "nm1228475"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965,
+  "death_year": 2023
+}

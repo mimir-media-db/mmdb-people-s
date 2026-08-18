@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_caan",
+  "name": "Scott Caan",
+  "external_ids": {
+    "wikidata": "Q314673",
+    "imdb": "nm0004790"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sirus_alvand",
+  "name": "Sirus Alvand",
+  "external_ids": {
+    "wikidata": "Q7530685",
+    "imdb": "nm0023119"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

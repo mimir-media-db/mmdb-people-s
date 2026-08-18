@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sandra_oh",
+  "name": "Sandra Oh",
+  "external_ids": {
+    "wikidata": "Q40337",
+    "imdb": "nm0644897"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}
