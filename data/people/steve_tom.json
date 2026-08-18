@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_tom",
+  "name": "Steve Tom",
+  "external_ids": {
+    "wikidata": "Q3247208",
+    "imdb": "nm0003493"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

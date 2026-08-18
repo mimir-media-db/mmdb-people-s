@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel_rizal",
+  "name": "Samuel Rizal",
+  "external_ids": {
+    "wikidata": "Q6074132",
+    "imdb": "nm1348199"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}
