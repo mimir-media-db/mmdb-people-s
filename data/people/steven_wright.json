@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steven_wright",
+  "name": "Steven Wright",
+  "external_ids": {
+    "wikidata": "Q1969967",
+    "imdb": "nm0942833"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

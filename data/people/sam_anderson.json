@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_anderson",
+  "name": "Sam Anderson",
+  "external_ids": {
+    "wikidata": "Q374447",
+    "imdb": "nm0027402"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

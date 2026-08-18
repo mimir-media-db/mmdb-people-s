@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_shah_rukh_khan",
+  "name": "Shah Rukh Khan",
+  "external_ids": {
+    "wikidata": "Q9535",
+    "imdb": "nm0451321"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samantha_lang",
+  "name": "Samantha Lang",
+  "external_ids": {
+    "wikidata": "Q3470620",
+    "imdb": "nm0485904"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

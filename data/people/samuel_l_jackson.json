@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel_l_jackson",
+  "name": "Samuel L. Jackson",
+  "external_ids": {
+    "wikidata": "Q172678",
+    "imdb": "nm0000168"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

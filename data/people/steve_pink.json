@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_pink",
+  "name": "Steve Pink",
+  "external_ids": {
+    "wikidata": "Q7613624",
+    "imdb": "nm0684336"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

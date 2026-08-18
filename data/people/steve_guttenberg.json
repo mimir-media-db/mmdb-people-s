@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_guttenberg",
+  "name": "Steve Guttenberg",
+  "external_ids": {
+    "wikidata": "Q318685",
+    "imdb": "nm0000430"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

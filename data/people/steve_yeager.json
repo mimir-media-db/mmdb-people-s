@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_yeager",
+  "name": "Steve Yeager",
+  "external_ids": {
+    "wikidata": "Q15463474",
+    "imdb": "nm0947036"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
