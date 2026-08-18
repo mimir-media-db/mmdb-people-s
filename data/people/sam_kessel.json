@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_kessel",
+  "name": "Sam Kessel",
+  "external_ids": {
+    "wikidata": "Q5907062",
+    "imdb": "nm0450269"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

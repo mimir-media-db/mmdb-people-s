@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_glenn",
+  "name": "Scott Glenn",
+  "external_ids": {
+    "wikidata": "Q114179",
+    "imdb": "nm0001277"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

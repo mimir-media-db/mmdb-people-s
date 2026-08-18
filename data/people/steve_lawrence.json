@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_lawrence",
+  "name": "Steve Lawrence",
+  "external_ids": {
+    "wikidata": "Q1339107",
+    "imdb": "nm0493031"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2024
+}

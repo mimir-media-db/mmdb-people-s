@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_michelle_gellar",
+  "name": "Sarah Michelle Gellar",
+  "external_ids": {
+    "wikidata": "Q180665",
+    "imdb": "nm0001264"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

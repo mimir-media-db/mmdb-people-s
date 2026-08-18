@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_scott_gibson",
-  "name": "Scott Gibson",
+  "id": "p_shawn_roberts",
+  "name": "Shawn Roberts",
   "external_ids": {
-    "wikidata": "Q7436405"
+    "wikidata": "Q554132",
+    "imdb": "nm0731575"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1984

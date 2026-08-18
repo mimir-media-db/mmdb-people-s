@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_baker",
+  "name": "Simon Baker",
+  "external_ids": {
+    "wikidata": "Q192021",
+    "imdb": "nm0048932"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}
