@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_son_house",
+  "name": "Son House",
+  "external_ids": {
+    "wikidata": "Q352999",
+    "imdb": "nm1009121"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1902,
+  "death_year": 1988
+}
