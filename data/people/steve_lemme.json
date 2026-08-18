@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_lemme",
+  "name": "Steve Lemme",
+  "external_ids": {
+    "wikidata": "Q439618",
+    "imdb": "nm0501399"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

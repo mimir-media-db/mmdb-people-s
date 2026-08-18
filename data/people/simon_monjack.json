@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_monjack",
+  "name": "Simon Monjack",
+  "external_ids": {
+    "wikidata": "Q645704",
+    "imdb": "nm0598168"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970,
+  "death_year": 2010
+}

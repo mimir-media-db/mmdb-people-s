@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_byers",
+  "name": "Steve Byers",
+  "external_ids": {
+    "wikidata": "Q577409",
+    "imdb": "nm0125847"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

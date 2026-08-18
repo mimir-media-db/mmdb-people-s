@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_bing",
+  "name": "Steve Bing",
+  "external_ids": {
+    "wikidata": "Q15521785",
+    "imdb": "nm0082893"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965,
+  "death_year": 2020
+}

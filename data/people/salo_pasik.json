@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_salo_pasik",
+  "name": "Salo Pasik",
+  "external_ids": {
+    "wikidata": "Q6117401",
+    "imdb": "nm0664580"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2017
+}

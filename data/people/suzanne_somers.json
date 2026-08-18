@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_suzanne_somers",
+  "name": "Suzanne Somers",
+  "external_ids": {
+    "wikidata": "Q242939",
+    "imdb": "nm0001755"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2023
+}

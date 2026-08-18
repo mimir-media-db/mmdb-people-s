@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_fields",
+  "name": "Simon Fields",
+  "external_ids": {
+    "wikidata": "Q7518743",
+    "imdb": "nm0276353"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

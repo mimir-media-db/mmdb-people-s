@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_kirkland",
+  "name": "Sally Kirkland",
+  "external_ids": {
+    "wikidata": "Q235221",
+    "imdb": "nm0000476"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941,
+  "death_year": 2025
+}

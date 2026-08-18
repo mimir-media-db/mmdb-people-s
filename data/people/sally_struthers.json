@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_struthers",
+  "name": "Sally Struthers",
+  "external_ids": {
+    "wikidata": "Q259441",
+    "imdb": "nm0001783"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

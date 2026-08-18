@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_hamm",
+  "name": "Sam Hamm",
+  "external_ids": {
+    "wikidata": "Q2463237",
+    "imdb": "nm0358334"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sala_baker",
+  "name": "Sala Baker",
+  "external_ids": {
+    "wikidata": "Q1388807",
+    "imdb": "nm1019674"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}
