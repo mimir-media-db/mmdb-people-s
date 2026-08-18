@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_park",
+  "name": "Steve Park",
+  "external_ids": {
+    "wikidata": "Q7613550",
+    "imdb": "nm0661950"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

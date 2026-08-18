@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_james",
+  "name": "Steve James",
+  "external_ids": {
+    "wikidata": "Q2347045",
+    "imdb": "nm0416945"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

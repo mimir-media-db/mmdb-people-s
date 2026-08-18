@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sela_ward",
+  "name": "Sela Ward",
+  "external_ids": {
+    "wikidata": "Q229187",
+    "imdb": "nm0000688"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stephen_oreilly",
+  "name": "Stephen O'Reilly",
+  "external_ids": {
+    "wikidata": "Q7610130",
+    "imdb": "nm0642485"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

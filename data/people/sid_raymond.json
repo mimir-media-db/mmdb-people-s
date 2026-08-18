@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sid_raymond",
+  "name": "Sid Raymond",
+  "external_ids": {
+    "wikidata": "Q3483094",
+    "imdb": "nm0713367"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1909,
+  "death_year": 2006
+}

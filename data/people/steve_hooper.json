@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_hooper",
+  "name": "Steve Hooper",
+  "external_ids": {
+    "wikidata": "Q3973348",
+    "imdb": "nm1336518"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

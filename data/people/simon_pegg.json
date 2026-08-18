@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_pegg",
+  "name": "Simon Pegg",
+  "external_ids": {
+    "wikidata": "Q238464",
+    "imdb": "nm0670408"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

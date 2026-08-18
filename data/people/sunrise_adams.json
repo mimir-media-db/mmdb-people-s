@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sunrise_adams",
+  "name": "Sunrise Adams",
+  "external_ids": {
+    "wikidata": "Q242232",
+    "imdb": "nm1017497"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

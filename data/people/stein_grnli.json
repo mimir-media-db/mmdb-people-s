@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stein_grnli",
+  "name": "Stein Grønli",
+  "external_ids": {
+    "wikidata": "Q22282321",
+    "imdb": "nm0345022"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
