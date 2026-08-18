@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_bisley",
+  "name": "Simon Bisley",
+  "external_ids": {
+    "wikidata": "Q660225",
+    "imdb": "nm0084253"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

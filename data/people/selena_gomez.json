@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_selena_gomez",
+  "name": "Selena Gomez",
+  "external_ids": {
+    "wikidata": "Q83287",
+    "imdb": "nm1411125"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1992
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_waterston",
+  "name": "Sam Waterston",
+  "external_ids": {
+    "wikidata": "Q284876",
+    "imdb": "nm0001832"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}

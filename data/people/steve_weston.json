@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_weston",
+  "name": "Steve Weston",
+  "external_ids": {
+    "wikidata": "Q7614273",
+    "imdb": "nm0923014"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939,
+  "death_year": 1985
+}

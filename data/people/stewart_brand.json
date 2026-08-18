@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stewart_brand",
+  "name": "Stewart Brand",
+  "external_ids": {
+    "wikidata": "Q971994",
+    "imdb": "nm1674895"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938
+}

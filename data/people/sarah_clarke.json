@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_clarke",
+  "name": "Sarah Clarke",
+  "external_ids": {
+    "wikidata": "Q234809",
+    "imdb": "nm1020124"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

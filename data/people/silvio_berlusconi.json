@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_silvio_berlusconi",
+  "name": "Silvio Berlusconi",
+  "external_ids": {
+    "wikidata": "Q11860",
+    "imdb": "nm0075706"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1936,
+  "death_year": 2023
+}

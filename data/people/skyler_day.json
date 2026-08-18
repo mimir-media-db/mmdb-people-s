@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_skyler_day",
+  "name": "Skyler Day",
+  "external_ids": {
+    "wikidata": "Q7537849",
+    "imdb": "nm1384666"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1991
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sydney_penny",
+  "name": "Sydney Penny",
+  "external_ids": {
+    "wikidata": "Q445518",
+    "imdb": "nm0001607"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

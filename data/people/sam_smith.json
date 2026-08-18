@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_smith",
+  "name": "Sam Smith",
+  "external_ids": {
+    "wikidata": "Q7408171",
+    "imdb": "nm0809857"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}
