@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_cowell",
+  "name": "Simon Cowell",
+  "external_ids": {
+    "wikidata": "Q162629",
+    "imdb": "nm1101562"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

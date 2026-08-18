@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_strathford_hamilton",
+  "name": "Strathford Hamilton",
+  "external_ids": {
+    "wikidata": "Q106472543",
+    "imdb": "nm0358175"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

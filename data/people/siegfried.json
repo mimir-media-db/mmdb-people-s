@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_siegfried",
+  "name": "Siegfried",
+  "external_ids": {
+    "wikidata": "Q3483396",
+    "imdb": "nm0797055"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973,
+  "death_year": 2024
+}

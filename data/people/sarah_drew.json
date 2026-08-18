@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_drew",
+  "name": "Sarah Drew",
+  "external_ids": {
+    "wikidata": "Q236759",
+    "imdb": "nm0237711"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}
