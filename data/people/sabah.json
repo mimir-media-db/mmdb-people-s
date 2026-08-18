@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sabah",
+  "name": "Sabah",
+  "external_ids": {
+    "wikidata": "Q2600118",
+    "imdb": "nm0754480"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2014
+}

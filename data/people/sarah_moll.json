@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_moll",
+  "name": "Sarah Moll",
+  "external_ids": {
+    "wikidata": "Q22117227",
+    "imdb": "nm2307011"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}
