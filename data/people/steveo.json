@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steveo",
+  "name": "Steve-O",
+  "external_ids": {
+    "wikidata": "Q451501",
+    "imdb": "nm0828177"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sonia",
+  "name": "Sonia",
+  "external_ids": {
+    "wikidata": "Q16202553",
+    "imdb": "nm1286262"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

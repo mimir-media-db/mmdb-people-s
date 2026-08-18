@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_bloom",
+  "name": "Scott Bloom",
+  "external_ids": {
+    "wikidata": "Q7436007",
+    "imdb": "nm0089231"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

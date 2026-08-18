@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_jacobs",
+  "name": "Steve Jacobs",
+  "external_ids": {
+    "wikidata": "Q3498963",
+    "imdb": "nm0414646"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

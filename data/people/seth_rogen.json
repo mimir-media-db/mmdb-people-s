@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seth_rogen",
+  "name": "Seth Rogen",
+  "external_ids": {
+    "wikidata": "Q220308",
+    "imdb": "nm0736622"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

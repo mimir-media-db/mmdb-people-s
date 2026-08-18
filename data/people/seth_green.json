@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seth_green",
+  "name": "Seth Green",
+  "external_ids": {
+    "wikidata": "Q186757",
+    "imdb": "nm0001293"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

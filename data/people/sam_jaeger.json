@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_jaeger",
+  "name": "Sam Jaeger",
+  "external_ids": {
+    "wikidata": "Q382094",
+    "imdb": "nm0415382"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

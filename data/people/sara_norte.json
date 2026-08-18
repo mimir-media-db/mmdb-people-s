@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sara_norte",
+  "name": "Sara Norte",
+  "external_ids": {
+    "wikidata": "Q10368397",
+    "imdb": "nm0635973"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steven_spielberg",
+  "name": "Steven Spielberg",
+  "external_ids": {
+    "wikidata": "Q8877",
+    "imdb": "nm0000229"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

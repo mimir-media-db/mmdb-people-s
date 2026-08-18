@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_little",
+  "name": "Steve Little",
+  "external_ids": {
+    "wikidata": "Q2347123",
+    "imdb": "nm1776820"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

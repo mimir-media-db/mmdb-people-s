@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sara_rue",
+  "name": "Sara Rue",
+  "external_ids": {
+    "wikidata": "Q240199",
+    "imdb": "nm0749081"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}
