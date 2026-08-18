@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_easton",
+  "name": "Sam Easton",
+  "external_ids": {
+    "wikidata": "Q901231",
+    "imdb": "nm1285005"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

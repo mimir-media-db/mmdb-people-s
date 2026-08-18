@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_soko",
+  "name": "Soko",
+  "external_ids": {
+    "wikidata": "Q257551",
+    "imdb": "nm1331316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

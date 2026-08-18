@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_spider_loc",
+  "name": "Spider Loc",
+  "external_ids": {
+    "wikidata": "Q1359039",
+    "imdb": "nm2103839"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

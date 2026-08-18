@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_strange",
+  "name": "Sarah Strange",
+  "external_ids": {
+    "wikidata": "Q446979",
+    "imdb": "nm0833385"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
