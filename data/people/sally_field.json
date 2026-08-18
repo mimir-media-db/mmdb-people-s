@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_field",
+  "name": "Sally Field",
+  "external_ids": {
+    "wikidata": "Q187033",
+    "imdb": "nm0000398"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

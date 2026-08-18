@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_drake",
+  "name": "Steve Drake",
+  "external_ids": {
+    "wikidata": "Q3498912",
+    "imdb": "nm0237015"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

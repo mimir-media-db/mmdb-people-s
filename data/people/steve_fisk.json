@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_fisk",
+  "name": "Steve Fisk",
+  "external_ids": {
+    "wikidata": "Q1798410",
+    "imdb": "nm0279940"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_skeet_ulrich",
+  "name": "Skeet Ulrich",
+  "external_ids": {
+    "wikidata": "Q472320",
+    "imdb": "nm0000240"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

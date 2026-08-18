@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_york",
+  "name": "Steve York",
+  "external_ids": {
+    "wikidata": "Q7614382",
+    "imdb": "nm0948770"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

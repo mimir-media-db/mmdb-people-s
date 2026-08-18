@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scotty_leavenworth",
+  "name": "Scotty Leavenworth",
+  "external_ids": {
+    "wikidata": "Q589849",
+    "imdb": "nm0495358"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1990
+}

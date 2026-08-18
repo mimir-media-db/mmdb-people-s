@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sylvester_stallone",
+  "name": "Sylvester Stallone",
+  "external_ids": {
+    "wikidata": "Q40026",
+    "imdb": "nm0000230"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

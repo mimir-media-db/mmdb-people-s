@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stephen_lang",
+  "name": "Stephen Lang",
+  "external_ids": {
+    "wikidata": "Q312902",
+    "imdb": "nm0002332"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

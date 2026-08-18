@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sophie_call",
+  "name": "Sophie Call",
+  "external_ids": {
+    "wikidata": "Q138079276",
+    "imdb": "nm0130109"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

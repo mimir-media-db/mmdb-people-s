@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_firstenberg",
+  "name": "Sam Firstenberg",
+  "external_ids": {
+    "wikidata": "Q328555",
+    "imdb": "nm0278735"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

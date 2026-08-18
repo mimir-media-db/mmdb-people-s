@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_susie_porter",
+  "name": "Susie Porter",
+  "external_ids": {
+    "wikidata": "Q3505686",
+    "imdb": "nm0692305"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

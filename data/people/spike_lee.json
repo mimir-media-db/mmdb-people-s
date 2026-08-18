@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_spike_lee",
+  "name": "Spike Lee",
+  "external_ids": {
+    "wikidata": "Q51566",
+    "imdb": "nm0000490"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_jessica_parker",
+  "name": "Sarah Jessica Parker",
+  "external_ids": {
+    "wikidata": "Q170530",
+    "imdb": "nm0000572"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

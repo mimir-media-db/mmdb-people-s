@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_stan_freberg",
+  "name": "Stan Freberg",
+  "external_ids": {
+    "wikidata": "Q3288585",
+    "imdb": "nm0292677"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 2015
+}

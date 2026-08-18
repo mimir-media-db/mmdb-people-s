@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_mendes",
+  "name": "Sam Mendes",
+  "external_ids": {
+    "wikidata": "Q223233",
+    "imdb": "nm0005222"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

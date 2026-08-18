@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_miner",
+  "name": "Steve Miner",
+  "external_ids": {
+    "wikidata": "Q107404",
+    "imdb": "nm0591171"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

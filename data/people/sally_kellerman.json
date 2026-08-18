@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_kellerman",
+  "name": "Sally Kellerman",
+  "external_ids": {
+    "wikidata": "Q266391",
+    "imdb": "nm0001419"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2022
+}

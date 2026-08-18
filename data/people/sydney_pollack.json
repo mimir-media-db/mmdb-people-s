@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sydney_pollack",
+  "name": "Sydney Pollack",
+  "external_ids": {
+    "wikidata": "Q51522",
+    "imdb": "nm0001628"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2008
+}

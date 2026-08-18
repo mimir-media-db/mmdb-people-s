@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sanjay_gupta",
+  "name": "Sanjay Gupta",
+  "external_ids": {
+    "wikidata": "Q644401",
+    "imdb": "nm0348495"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

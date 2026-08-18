@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sting",
+  "name": "Sting",
+  "external_ids": {
+    "wikidata": "Q44640",
+    "imdb": "nm0096165"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_lee",
+  "name": "Sam Lee",
+  "external_ids": {
+    "wikidata": "Q1059865",
+    "imdb": "nm0498189"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

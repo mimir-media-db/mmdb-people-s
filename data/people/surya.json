@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_surya",
+  "name": "Surya",
+  "external_ids": {
+    "wikidata": "Q19663326",
+    "imdb": "nm6817038"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

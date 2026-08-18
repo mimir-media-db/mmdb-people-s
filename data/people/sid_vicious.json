@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sid_vicious",
+  "name": "Sid Vicious",
+  "external_ids": {
+    "wikidata": "Q47878",
+    "imdb": "nm0895965"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957,
+  "death_year": 1979
+}

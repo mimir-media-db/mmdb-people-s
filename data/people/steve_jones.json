@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_jones",
+  "name": "Steve Jones",
+  "external_ids": {
+    "wikidata": "Q347986",
+    "imdb": "nm0429289"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_neill",
+  "name": "Sam Neill",
+  "external_ids": {
+    "wikidata": "Q214309",
+    "imdb": "nm0000554"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947,
+  "death_year": 2026
+}

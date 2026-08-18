@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_susan_floyd",
+  "name": "Susan Floyd",
+  "external_ids": {
+    "wikidata": "Q2480872",
+    "imdb": "nm0283299"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_salman_khan",
+  "name": "Salman Khan",
+  "external_ids": {
+    "wikidata": "Q9543",
+    "imdb": "nm0006795"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

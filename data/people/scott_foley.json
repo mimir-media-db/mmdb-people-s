@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_foley",
+  "name": "Scott Foley",
+  "external_ids": {
+    "wikidata": "Q364822",
+    "imdb": "nm0004930"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

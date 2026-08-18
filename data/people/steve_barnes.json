@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_barnes",
+  "name": "Steve Barnes",
+  "external_ids": {
+    "wikidata": "Q7611869",
+    "imdb": "nm0055789"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

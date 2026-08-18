@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sigourney_weaver",
+  "name": "Sigourney Weaver",
+  "external_ids": {
+    "wikidata": "Q102124",
+    "imdb": "nm0000244"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

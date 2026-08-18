@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sheila_scott",
+  "name": "Sheila Scott",
+  "external_ids": {
+    "wikidata": "Q138648518",
+    "imdb": "nm1042284"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

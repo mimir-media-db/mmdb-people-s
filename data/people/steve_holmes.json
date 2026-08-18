@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_holmes",
+  "name": "Steve Holmes",
+  "external_ids": {
+    "wikidata": "Q77571",
+    "imdb": "nm0392056"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

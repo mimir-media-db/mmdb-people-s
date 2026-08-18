@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stephen_chow",
+  "name": "Stephen Chow",
+  "external_ids": {
+    "wikidata": "Q311179",
+    "imdb": "nm0159507"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sangita",
+  "name": "Sangita",
+  "external_ids": {
+    "wikidata": "Q130608",
+    "imdb": "nm4971633"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}
