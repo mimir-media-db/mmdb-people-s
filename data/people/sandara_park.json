@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sandara_park",
+  "name": "Sandara Park",
+  "external_ids": {
+    "wikidata": "Q496170",
+    "imdb": "nm1720133"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sy_smith",
+  "name": "Sy Smith",
+  "external_ids": {
+    "wikidata": "Q7659423",
+    "imdb": "nm1106426"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

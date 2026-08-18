@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_salar_zarza",
+  "name": "Salar Zarza",
+  "external_ids": {
+    "wikidata": "Q46710211",
+    "imdb": "nm2194121"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sophia_smith",
+  "name": "Sophia Smith",
+  "external_ids": {
+    "wikidata": "Q7562922"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1796,
+  "death_year": 1870
+}

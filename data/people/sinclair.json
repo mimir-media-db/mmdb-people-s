@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sinclair",
+  "name": "Sinclair",
+  "external_ids": {
+    "wikidata": "Q3484876",
+    "imdb": "nm1281243"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

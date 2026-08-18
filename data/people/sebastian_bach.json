@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sebastian_bach",
+  "name": "Sebastian Bach",
+  "external_ids": {
+    "wikidata": "Q363490",
+    "imdb": "nm0045355"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

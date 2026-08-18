@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steven_miller",
+  "name": "Steven Miller",
+  "external_ids": {
+    "wikidata": "Q7615056",
+    "imdb": "nm0589374"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
