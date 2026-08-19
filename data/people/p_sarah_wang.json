@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_wang",
+  "name": "Sarah Wang",
+  "external_ids": {
+    "wikidata": "Q9312455",
+    "imdb": "nm5324808"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

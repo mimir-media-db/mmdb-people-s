@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sara_parikka",
+  "name": "Sara Parikka",
+  "external_ids": {
+    "wikidata": "Q5319201",
+    "imdb": "nm3138301"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}

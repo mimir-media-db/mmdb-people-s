@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_fischer",
+  "name": "Sam Fischer",
+  "external_ids": {
+    "wikidata": "Q86749847",
+    "imdb": "nm10904762"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
