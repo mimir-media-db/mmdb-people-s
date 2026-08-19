@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sinead_oconnor",
+  "name": "Sinéad O'Connor",
+  "external_ids": {
+    "wikidata": "Q193982",
+    "imdb": "nm0640521"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966,
+  "death_year": 2023
+}

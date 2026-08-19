@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_hunter",
+  "name": "Simon Hunter",
+  "external_ids": {
+    "wikidata": "Q59910627",
+    "imdb": "nm0403038"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

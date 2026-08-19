@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_barker",
+  "name": "Steve Barker",
+  "external_ids": {
+    "wikidata": "Q1772954",
+    "imdb": "nm1530422"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

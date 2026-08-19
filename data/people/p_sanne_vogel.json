@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sanne_vogel",
+  "name": "Sanne Vogel",
+  "external_ids": {
+    "wikidata": "Q2321845",
+    "imdb": "nm1469068"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

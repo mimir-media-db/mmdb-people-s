@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sharena",
+  "name": "Sharena",
+  "external_ids": {
+    "wikidata": "Q12514092",
+    "imdb": "nm3120095"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

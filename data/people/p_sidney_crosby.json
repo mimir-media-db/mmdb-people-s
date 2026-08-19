@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sidney_crosby",
+  "name": "Sidney Crosby",
+  "external_ids": {
+    "wikidata": "Q311280",
+    "imdb": "nm2092808"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
