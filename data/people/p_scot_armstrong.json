@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scot_armstrong",
+  "name": "Scot Armstrong",
+  "external_ids": {
+    "wikidata": "Q2260642",
+    "imdb": "nm0035905"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
