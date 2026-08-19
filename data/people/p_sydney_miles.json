@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_sydney_miles",
+  "name": "Sydney Miles",
+  "external_ids": {
+    "wikidata": "Q130333514",
+    "imdb": "nm10997021"
+  },
+  "last_updated": "2026-08-19"
+}

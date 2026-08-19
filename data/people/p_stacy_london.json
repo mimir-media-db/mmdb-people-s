@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stacy_london",
+  "name": "Stacy London",
+  "external_ids": {
+    "wikidata": "Q3246540",
+    "imdb": "nm1518642"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
