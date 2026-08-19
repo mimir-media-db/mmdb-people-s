@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_scott",
+  "name": "Sally Scott",
+  "external_ids": {
+    "wikidata": "Q112224617",
+    "imdb": "nm2370952"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sprague_grayden",
+  "name": "Sprague Grayden",
+  "external_ids": {
+    "wikidata": "Q260177",
+    "imdb": "nm0337042"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

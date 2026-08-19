@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sergey_barkovsky",
+  "name": "Sergey Barkovsky",
+  "external_ids": {
+    "wikidata": "Q4078325",
+    "imdb": "nm0055112"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}
