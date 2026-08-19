@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_witwer",
+  "name": "Sam Witwer",
+  "external_ids": {
+    "wikidata": "Q18918",
+    "imdb": "nm1022429"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

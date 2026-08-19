@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stelio_savante",
+  "name": "Stelio Savante",
+  "external_ids": {
+    "wikidata": "Q2054051",
+    "imdb": "nm0767445"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_song_jia",
+  "name": "Song Jia",
+  "external_ids": {
+    "wikidata": "Q6129284",
+    "imdb": "nm2346095"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

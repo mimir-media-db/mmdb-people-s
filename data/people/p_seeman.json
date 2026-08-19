@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seeman",
+  "name": "Seeman",
+  "external_ids": {
+    "wikidata": "Q7445882",
+    "imdb": "nm1913036"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}
