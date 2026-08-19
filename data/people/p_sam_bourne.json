@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_bourne",
+  "name": "Sam Bourne",
+  "external_ids": {
+    "wikidata": "Q124058898",
+    "imdb": "nm7787279"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
