@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sid_sheinberg",
+  "name": "Sid Sheinberg",
+  "external_ids": {
+    "wikidata": "Q3246861",
+    "imdb": "nm0790901"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935,
+  "death_year": 2019
+}

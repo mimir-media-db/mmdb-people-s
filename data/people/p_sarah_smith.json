@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_smith",
+  "name": "Sarah Smith",
+  "external_ids": {
+    "wikidata": "Q7422783",
+    "imdb": "nm0809877"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

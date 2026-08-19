@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_andersen",
+  "name": "Simon Andersen",
+  "external_ids": {
+    "wikidata": "Q12000527",
+    "imdb": "nm1604911"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sheldon_larry",
+  "name": "Sheldon Larry",
+  "external_ids": {
+    "wikidata": "Q55723386",
+    "imdb": "nm0488688"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
