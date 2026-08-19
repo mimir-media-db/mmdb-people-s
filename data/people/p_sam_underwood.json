@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_underwood",
+  "name": "Sam Underwood",
+  "external_ids": {
+    "wikidata": "Q15273814",
+    "imdb": "nm3862996"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

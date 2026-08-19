@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sister_carol",
+  "name": "Sister Carol",
+  "external_ids": {
+    "wikidata": "Q3485348",
+    "imdb": "nm0247506"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
