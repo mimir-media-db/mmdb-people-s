@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_song_xiaobao",
+  "name": "Song Xiaobao",
+  "external_ids": {
+    "wikidata": "Q20687904",
+    "imdb": "nm8348575"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
