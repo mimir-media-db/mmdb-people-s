@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sara_canning",
+  "name": "Sara Canning",
+  "external_ids": {
+    "wikidata": "Q232078",
+    "imdb": "nm3048050"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
