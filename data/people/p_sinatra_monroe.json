@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sinatra_monroe",
+  "name": "Sinatra Monroe",
+  "external_ids": {
+    "wikidata": "Q124396949",
+    "imdb": "nm15347072"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
