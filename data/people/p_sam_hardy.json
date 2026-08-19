@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_hardy",
+  "name": "Sam Hardy",
+  "external_ids": {
+    "wikidata": "Q3946332",
+    "imdb": "nm0362742"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1883,
+  "death_year": 1935
+}

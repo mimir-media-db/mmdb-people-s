@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_soho_rezanejad",
+  "name": "Soho Rezanejad",
+  "external_ids": {
+    "wikidata": "Q65972389",
+    "imdb": "nm8570635"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
