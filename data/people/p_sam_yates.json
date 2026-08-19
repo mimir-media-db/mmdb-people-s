@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_yates",
+  "name": "Sam Yates",
+  "external_ids": {
+    "wikidata": "Q16000026",
+    "imdb": "nm7537695"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

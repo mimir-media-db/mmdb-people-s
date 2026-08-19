@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_sandra_hess",
-  "name": "Sandra Hess",
+  "id": "p_spider_one",
+  "name": "Spider One",
   "external_ids": {
-    "wikidata": "Q115785",
-    "imdb": "nm0381524"
+    "wikidata": "Q3308130",
+    "imdb": "nm0191931"
   },
   "last_updated": "2026-08-19",
   "birth_year": 1968
