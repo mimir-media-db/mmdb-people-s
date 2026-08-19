@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_wildman",
+  "name": "Sam Wildman",
+  "external_ids": {
+    "wikidata": "Q26884749",
+    "imdb": "nm5133126"
+  },
+  "last_updated": "2026-08-19"
+}

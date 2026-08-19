@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_solomon_sir_jones",
+  "name": "Solomon Sir Jones",
+  "external_ids": {
+    "wikidata": "Q26913021",
+    "imdb": "nm8316466"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1868,
+  "death_year": 1935
+}

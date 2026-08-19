@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_shelly_ro",
+  "name": "Shelly Ro",
+  "external_ids": {
+    "wikidata": "Q42705547",
+    "imdb": "nm5775388"
+  },
+  "last_updated": "2026-08-19"
+}
