@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stanley_brooks",
+  "name": "Stanley Brooks",
+  "external_ids": {
+    "wikidata": "Q7599499",
+    "imdb": "nm0112253"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}
