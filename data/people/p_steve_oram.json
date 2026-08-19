@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_oram",
+  "name": "Steve Oram",
+  "external_ids": {
+    "wikidata": "Q7613514",
+    "imdb": "nm1361530"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}
