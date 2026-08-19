@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_register",
+  "name": "Sam Register",
+  "external_ids": {
+    "wikidata": "Q3470539",
+    "imdb": "nm1882146"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

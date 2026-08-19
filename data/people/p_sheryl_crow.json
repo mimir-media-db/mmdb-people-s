@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sheryl_crow",
+  "name": "Sheryl Crow",
+  "external_ids": {
+    "wikidata": "Q200586",
+    "imdb": "nm0002028"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

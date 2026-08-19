@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_spencer_list",
+  "name": "Spencer List",
+  "external_ids": {
+    "wikidata": "Q2782328",
+    "imdb": "nm1478535"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}

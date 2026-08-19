@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_swoon",
+  "name": "Swoon",
+  "external_ids": {
+    "wikidata": "Q3506692",
+    "imdb": "nm1857813"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
