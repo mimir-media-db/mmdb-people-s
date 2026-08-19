@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_salon_basnet",
+  "name": "Salon Basnet",
+  "external_ids": {
+    "wikidata": "Q25620766",
+    "imdb": "nm1084912"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
