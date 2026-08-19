@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sunny_sun",
+  "name": "Sunny Sun",
+  "external_ids": {
+    "wikidata": "Q123329211",
+    "imdb": "nm6516195"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
