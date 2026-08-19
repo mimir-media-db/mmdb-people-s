@@ -1118,6 +1118,11 @@
     "path": "data/people/p_sabine_tettenborn.json"
   },
   {
+    "id": "p_sabine_thalau",
+    "name": "Sabine Thalau",
+    "path": "data/people/p_sabine_thalau.json"
+  },
+  {
     "id": "p_sabine_timmermann",
     "name": "Sabine Timmermann",
     "birth_year": 1999,
@@ -1274,6 +1279,12 @@
     "name": "Sabrina B. Karine",
     "birth_year": 1983,
     "path": "data/people/p_sabrina_b_karine.json"
+  },
+  {
+    "id": "p_sabrina_bartlett",
+    "name": "Sabrina Bartlett",
+    "birth_year": 1991,
+    "path": "data/people/p_sabrina_bartlett.json"
   },
   {
     "id": "p_sabrina_begin_tejeda",
@@ -2561,6 +2572,12 @@
     "path": "data/people/p_safa_aghajani.json"
   },
   {
+    "id": "p_safa_kabir",
+    "name": "Safa Kabir",
+    "birth_year": 1994,
+    "path": "data/people/p_safa_kabir.json"
+  },
+  {
     "id": "p_safa_onal",
     "name": "Safa Önal",
     "birth_year": 1930,
@@ -2657,6 +2674,11 @@
     "name": "Safi Yazdanian",
     "birth_year": 1960,
     "path": "data/people/p_safi_yazdanian.json"
+  },
+  {
+    "id": "p_safia_bourquetamba",
+    "name": "Safia Bourque-Tamba",
+    "path": "data/people/p_safia_bourquetamba.json"
   },
   {
     "id": "p_safia_minney",
@@ -2998,6 +3020,12 @@
     "name": "Sahel Rosa",
     "birth_year": 1985,
     "path": "data/people/p_sahel_rosa.json"
+  },
+  {
+    "id": "p_sahel_saeidi",
+    "name": "Sahel Saeidi",
+    "birth_year": 2020,
+    "path": "data/people/p_sahel_saeidi.json"
   },
   {
     "id": "p_sahher_bambba",
@@ -4042,6 +4070,12 @@
     "name": "Sakshi Tanwar",
     "birth_year": 1973,
     "path": "data/people/p_sakshi_tanwar.json"
+  },
+  {
+    "id": "p_sakshi_vaidya",
+    "name": "Sakshi Vaidya",
+    "birth_year": 2000,
+    "path": "data/people/p_sakshi_vaidya.json"
   },
   {
     "id": "p_sakthi_chidambaram",
@@ -5467,6 +5501,11 @@
     "path": "data/people/p_sam_brownback.json"
   },
   {
+    "id": "p_sam_c_wilson",
+    "name": "Sam C. Wilson",
+    "path": "data/people/p_sam_c_wilson.json"
+  },
+  {
     "id": "p_sam_catlin",
     "name": "Sam Catlin",
     "birth_year": 1949,
@@ -6163,6 +6202,12 @@
     "path": "data/people/p_sam_poons.json"
   },
   {
+    "id": "p_sam_pressman",
+    "name": "Sam Pressman",
+    "birth_year": 1987,
+    "path": "data/people/p_sam_pressman.json"
+  },
+  {
     "id": "p_sam_qaribian",
     "name": "Sam Qaribian",
     "birth_year": 1980,
@@ -6296,6 +6341,7 @@
   {
     "id": "p_sam_slater",
     "name": "Sam Slater",
+    "birth_year": 1984,
     "path": "data/people/p_sam_slater.json"
   },
   {
@@ -6714,6 +6760,11 @@
     "id": "p_samantha_jayne",
     "name": "Samantha Jayne",
     "path": "data/people/p_samantha_jayne.json"
+  },
+  {
+    "id": "p_samantha_jennings",
+    "name": "Samantha Jennings",
+    "path": "data/people/p_samantha_jennings.json"
   },
   {
     "id": "p_samantha_jolie",
@@ -8663,6 +8714,11 @@
     "path": "data/people/p_samuel_muzik.json"
   },
   {
+    "id": "p_samuel_neduha",
+    "name": "Samuel Neduha",
+    "path": "data/people/p_samuel_neduha.json"
+  },
+  {
     "id": "p_samuel_nishimiya",
     "name": "Samuel Nishimiya",
     "path": "data/people/p_samuel_nishimiya.json"
@@ -9701,6 +9757,12 @@
     "name": "Sándor Kardos",
     "birth_year": 1944,
     "path": "data/people/p_sandor_kardos.json"
+  },
+  {
+    "id": "p_sandor_pecsi",
+    "name": "Sándor Pécsi",
+    "birth_year": 1922,
+    "path": "data/people/p_sandor_pecsi.json"
   },
   {
     "id": "p_sandor_simo",
@@ -10856,6 +10918,12 @@
     "name": "Sandy Howard",
     "birth_year": 1927,
     "path": "data/people/p_sandy_howard.json"
+  },
+  {
+    "id": "p_sandy_johnson",
+    "name": "Sandy Johnson",
+    "birth_year": 1954,
+    "path": "data/people/p_sandy_johnson.json"
   },
   {
     "id": "p_sandy_kai",
@@ -13097,6 +13165,12 @@
     "path": "data/people/p_sara_creta.json"
   },
   {
+    "id": "p_sara_croce",
+    "name": "Sara Croce",
+    "birth_year": 1998,
+    "path": "data/people/p_sara_croce.json"
+  },
+  {
     "id": "p_sara_cucala",
     "name": "Sara Cucala",
     "path": "data/people/p_sara_cucala.json"
@@ -13179,6 +13253,12 @@
     "id": "p_sara_elmhamdi_elalaoui",
     "name": "Sara Elmhamdi Elalaoui",
     "path": "data/people/p_sara_elmhamdi_elalaoui.json"
+  },
+  {
+    "id": "p_sara_erlebachova",
+    "name": "Sára Erlebachová",
+    "birth_year": 1998,
+    "path": "data/people/p_sara_erlebachova.json"
   },
   {
     "id": "p_sara_espigul_i_ginebra",
@@ -14366,6 +14446,12 @@
     "path": "data/people/p_sarah_carter.json"
   },
   {
+    "id": "p_sarah_catherine_hook",
+    "name": "Sarah Catherine Hook",
+    "birth_year": 1995,
+    "path": "data/people/p_sarah_catherine_hook.json"
+  },
+  {
     "id": "p_sarah_chalke",
     "name": "Sarah Chalke",
     "birth_year": 1976,
@@ -14376,6 +14462,11 @@
     "name": "Sarah Chang",
     "birth_year": 1980,
     "path": "data/people/p_sarah_chang.json"
+  },
+  {
+    "id": "p_sarah_channel",
+    "name": "Sarah Channel",
+    "path": "data/people/p_sarah_channel.json"
   },
   {
     "id": "p_sarah_chazelle",
@@ -15518,6 +15609,11 @@
     "path": "data/people/p_sarah_strange.json"
   },
   {
+    "id": "p_sarah_strunin",
+    "name": "Sarah Strunin",
+    "path": "data/people/p_sarah_strunin.json"
+  },
+  {
     "id": "p_sarah_suco",
     "name": "Sarah Suco",
     "birth_year": 1981,
@@ -15536,6 +15632,12 @@
     "path": "data/people/p_sarah_thompson.json"
   },
   {
+    "id": "p_sarah_thonig",
+    "name": "Sarah Thonig",
+    "birth_year": 1992,
+    "path": "data/people/p_sarah_thonig.json"
+  },
+  {
     "id": "p_sarah_tkotsch",
     "name": "Sarah Tkotsch",
     "birth_year": 1988,
@@ -15546,6 +15648,11 @@
     "name": "Sarah Tuffahati",
     "birth_year": 2001,
     "path": "data/people/p_sarah_tuffahati.json"
+  },
+  {
+    "id": "p_sarah_tumiwa",
+    "name": "Sarah Tumiwa",
+    "path": "data/people/p_sarah_tumiwa.json"
   },
   {
     "id": "p_sarah_twain",
@@ -16068,6 +16175,12 @@
     "path": "data/people/p_sarina_suzuki.json"
   },
   {
+    "id": "p_sarina_zarif",
+    "name": "Sarina Zarif",
+    "birth_year": 2018,
+    "path": "data/people/p_sarina_zarif.json"
+  },
+  {
     "id": "p_saringrock",
     "name": "saringROCK",
     "path": "data/people/p_saringrock.json"
@@ -16193,6 +16306,11 @@
     "name": "Šárka Opršálová",
     "birth_year": 1985,
     "path": "data/people/p_sarka_oprsalova.json"
+  },
+  {
+    "id": "p_sarka_oujezdska",
+    "name": "Šárka Oujezdská",
+    "path": "data/people/p_sarka_oujezdska.json"
   },
   {
     "id": "p_sarka_padevetova",
@@ -18122,6 +18240,11 @@
     "path": "data/people/p_saverio_raimondo.json"
   },
   {
+    "id": "p_saverio_smeriglio",
+    "name": "Saverio Smeriglio",
+    "path": "data/people/p_saverio_smeriglio.json"
+  },
+  {
     "id": "p_saverio_vallone",
     "name": "Saverio Vallone",
     "birth_year": 1958,
@@ -18632,6 +18755,12 @@
     "path": "data/people/p_sayu_suzukawa.json"
   },
   {
+    "id": "p_sayuri_herrera_roman",
+    "name": "Sayuri Herrera Román",
+    "birth_year": 1982,
+    "path": "data/people/p_sayuri_herrera_roman.json"
+  },
+  {
     "id": "p_sayuri_ishikawa",
     "name": "Sayuri Ishikawa",
     "birth_year": 1958,
@@ -18672,6 +18801,12 @@
     "name": "Sayyid Ahmed Ghazali",
     "birth_year": 1937,
     "path": "data/people/p_sayyid_ahmed_ghazali.json"
+  },
+  {
+    "id": "p_sayyid_el_alami",
+    "name": "Sayyid El Alami",
+    "birth_year": 1997,
+    "path": "data/people/p_sayyid_el_alami.json"
   },
   {
     "id": "p_sazzy_falak",
@@ -19174,6 +19309,11 @@
     "id": "p_scott_david_russell",
     "name": "Scott David Russell",
     "path": "data/people/p_scott_david_russell.json"
+  },
+  {
+    "id": "p_scott_deal",
+    "name": "Scott Deal",
+    "path": "data/people/p_scott_deal.json"
   },
   {
     "id": "p_scott_degraw",
@@ -21128,6 +21268,12 @@
     "path": "data/people/p_sean_mcgraw.json"
   },
   {
+    "id": "p_sean_mcinerney",
+    "name": "Sean McInerney",
+    "birth_year": 1986,
+    "path": "data/people/p_sean_mcinerney.json"
+  },
+  {
     "id": "p_sean_mckittrick",
     "name": "Sean McKittrick",
     "birth_year": 1975,
@@ -21452,6 +21598,11 @@
     "path": "data/people/p_sean_tyson.json"
   },
   {
+    "id": "p_sean_wallace",
+    "name": "Sean Wallace",
+    "path": "data/people/p_sean_wallace.json"
+  },
+  {
     "id": "p_sean_walsh",
     "name": "Sean Walsh",
     "birth_year": 1970,
@@ -21474,6 +21625,11 @@
     "name": "Sean Weathers",
     "birth_year": 1980,
     "path": "data/people/p_sean_weathers.json"
+  },
+  {
+    "id": "p_sean_weiner",
+    "name": "Sean Weiner",
+    "path": "data/people/p_sean_weiner.json"
   },
   {
     "id": "p_sean_welch",
@@ -22723,6 +22879,12 @@
     "path": "data/people/p_sebastiano_nela.json"
   },
   {
+    "id": "p_sebastiano_pigazzi",
+    "name": "Sebastiano Pigazzi",
+    "birth_year": 1996,
+    "path": "data/people/p_sebastiano_pigazzi.json"
+  },
+  {
     "id": "p_sebastiano_riso",
     "name": "Sebastiano Riso",
     "birth_year": 1983,
@@ -22890,6 +23052,12 @@
     "path": "data/people/p_sebastien_foucan.json"
   },
   {
+    "id": "p_sebastien_frit",
+    "name": "Sébastien Frit",
+    "birth_year": 1996,
+    "path": "data/people/p_sebastien_frit.json"
+  },
+  {
     "id": "p_sebastien_gagne",
     "name": "Sébastien Gagné",
     "path": "data/people/p_sebastien_gagne.json"
@@ -22993,6 +23161,12 @@
     "path": "data/people/p_sebastien_lifshitz.json"
   },
   {
+    "id": "p_sebastien_loeb",
+    "name": "Sébastien Loeb",
+    "birth_year": 1974,
+    "path": "data/people/p_sebastien_loeb.json"
+  },
+  {
     "id": "p_sebastien_marnier",
     "name": "Sébastien Marnier",
     "birth_year": 1977,
@@ -23009,6 +23183,11 @@
     "name": "Sébastien Pouderoux",
     "birth_year": 1982,
     "path": "data/people/p_sebastien_pouderoux.json"
+  },
+  {
+    "id": "p_sebastien_poussard",
+    "name": "Sébastien Poussard",
+    "path": "data/people/p_sebastien_poussard.json"
   },
   {
     "id": "p_sebastien_rene",
@@ -25113,6 +25292,11 @@
     "path": "data/people/p_seraphina_beh.json"
   },
   {
+    "id": "p_seraphina_marshall",
+    "name": "Seraphina Marshall",
+    "path": "data/people/p_seraphina_marshall.json"
+  },
+  {
     "id": "p_seraphine_rastl",
     "name": "Seraphine Rastl",
     "path": "data/people/p_seraphine_rastl.json"
@@ -25216,6 +25400,12 @@
     "name": "Seren Şahin",
     "birth_year": 1989,
     "path": "data/people/p_seren_sahin.json"
+  },
+  {
+    "id": "p_seren_sirince",
+    "name": "Seren Şirince",
+    "birth_year": 1987,
+    "path": "data/people/p_seren_sirince.json"
   },
   {
     "id": "p_seren_yuce",
@@ -26950,6 +27140,11 @@
     "path": "data/people/p_sergio_batista.json"
   },
   {
+    "id": "p_sergio_bautista",
+    "name": "Sergio Bautista",
+    "path": "data/people/p_sergio_bautista.json"
+  },
+  {
     "id": "p_sergio_bellotti",
     "name": "Sergio Bellotti",
     "birth_year": 1957,
@@ -28295,6 +28490,11 @@
     "id": "p_seth_kenlon",
     "name": "Seth Kenlon",
     "path": "data/people/p_seth_kenlon.json"
+  },
+  {
+    "id": "p_seth_kiroso",
+    "name": "Seth Kiroso",
+    "path": "data/people/p_seth_kiroso.json"
   },
   {
     "id": "p_seth_kramer",
@@ -29795,6 +29995,11 @@
     "id": "p_shailendra_singh",
     "name": "Shailendra Singh",
     "path": "data/people/p_shailendra_singh.json"
+  },
+  {
+    "id": "p_shailene_garnett",
+    "name": "Shailene Garnett",
+    "path": "data/people/p_shailene_garnett.json"
   },
   {
     "id": "p_shailene_woodley",
@@ -32410,6 +32615,12 @@
     "path": "data/people/p_sharvan_anenden.json"
   },
   {
+    "id": "p_sharvari",
+    "name": "Sharvari",
+    "birth_year": 1996,
+    "path": "data/people/p_sharvari.json"
+  },
+  {
     "id": "p_sharwanand",
     "name": "Sharwanand",
     "birth_year": 1984,
@@ -33241,6 +33452,12 @@
     "path": "data/people/p_shay_mitchell.json"
   },
   {
+    "id": "p_shay_rudolph",
+    "name": "Shay Rudolph",
+    "birth_year": 2005,
+    "path": "data/people/p_shay_rudolph.json"
+  },
+  {
     "id": "p_shay_sights",
     "name": "Shay Sights",
     "birth_year": 1973,
@@ -33360,6 +33577,11 @@
     "name": "Shea Curry",
     "birth_year": 1972,
     "path": "data/people/p_shea_curry.json"
+  },
+  {
+    "id": "p_shea_wageman",
+    "name": "Shea Wageman",
+    "path": "data/people/p_shea_wageman.json"
   },
   {
     "id": "p_shea_whigham",
@@ -33720,6 +33942,12 @@
     "id": "p_sheila_korsi",
     "name": "Sheila Korsi",
     "path": "data/people/p_sheila_korsi.json"
+  },
+  {
+    "id": "p_sheila_kusnadi",
+    "name": "Sheila Kusnadi",
+    "birth_year": 2004,
+    "path": "data/people/p_sheila_kusnadi.json"
   },
   {
     "id": "p_sheila_marcia",
@@ -34705,6 +34933,12 @@
     "path": "data/people/p_sheylla_wandergirlt.json"
   },
   {
+    "id": "p_shezy_idris",
+    "name": "Shezy Idris",
+    "birth_year": 1981,
+    "path": "data/people/p_shezy_idris.json"
+  },
+  {
     "id": "p_shi_ce",
     "name": "Shi Ce",
     "birth_year": 1993,
@@ -35474,6 +35708,12 @@
     "path": "data/people/p_shin_koyamada.json"
   },
   {
+    "id": "p_shin_koyanagi",
+    "name": "Shin Koyanagi",
+    "birth_year": 1987,
+    "path": "data/people/p_shin_koyanagi.json"
+  },
+  {
     "id": "p_shin_kusaka",
     "name": "Shin Kusaka",
     "path": "data/people/p_shin_kusaka.json"
@@ -35694,6 +35934,12 @@
     "name": "Shindong",
     "birth_year": 1985,
     "path": "data/people/p_shindong.json"
+  },
+  {
+    "id": "p_shine_louise_houston",
+    "name": "Shine Louise Houston",
+    "birth_year": 1952,
+    "path": "data/people/p_shine_louise_houston.json"
   },
   {
     "id": "p_shine_shetty",
@@ -36569,6 +36815,11 @@
     "name": "Shirley Murdock",
     "birth_year": 1957,
     "path": "data/people/p_shirley_murdock.json"
+  },
+  {
+    "id": "p_shirley_oconnor",
+    "name": "Shirley O’Connor",
+    "path": "data/people/p_shirley_oconnor.json"
   },
   {
     "id": "p_shirley_paucara_moreno",
@@ -38083,6 +38334,11 @@
     "path": "data/people/p_shrihari_sathe.json"
   },
   {
+    "id": "p_shrikant_kadam",
+    "name": "Shrikant Kadam",
+    "path": "data/people/p_shrikant_kadam.json"
+  },
+  {
     "id": "p_shrikant_mohta",
     "name": "Shrikant Mohta",
     "path": "data/people/p_shrikant_mohta.json"
@@ -38718,6 +38974,12 @@
     "name": "Shuntarō Yanagi",
     "birth_year": 1991,
     "path": "data/people/p_shuntaro_yanagi.json"
+  },
+  {
+    "id": "p_shunya_asano",
+    "name": "Shunya Asano",
+    "birth_year": 2000,
+    "path": "data/people/p_shunya_asano.json"
   },
   {
     "id": "p_shunya_itabashi",
@@ -39400,6 +39662,11 @@
     "path": "data/people/p_sid_caesar.json"
   },
   {
+    "id": "p_sid_donarski",
+    "name": "Sid Donarski",
+    "path": "data/people/p_sid_donarski.json"
+  },
+  {
     "id": "p_sid_eudy",
     "name": "Sid Eudy",
     "birth_year": 1960,
@@ -39537,6 +39804,12 @@
     "id": "p_siddharth_gupt",
     "name": "Siddharth Gupt",
     "path": "data/people/p_siddharth_gupt.json"
+  },
+  {
+    "id": "p_siddharth_gupta",
+    "name": "Siddharth Gupta",
+    "birth_year": 1993,
+    "path": "data/people/p_siddharth_gupta.json"
   },
   {
     "id": "p_siddharth_haldipur",
@@ -40904,6 +41177,12 @@
     "path": "data/people/p_silkk_the_shocker.json"
   },
   {
+    "id": "p_silma_lopez",
+    "name": "Silma López",
+    "birth_year": 1991,
+    "path": "data/people/p_silma_lopez.json"
+  },
+  {
     "id": "p_silma_mahmuti",
     "name": "Silma Mahmuti",
     "path": "data/people/p_silma_mahmuti.json"
@@ -41051,6 +41330,12 @@
     "name": "Silvano Piccardi",
     "birth_year": 1945,
     "path": "data/people/p_silvano_piccardi.json"
+  },
+  {
+    "id": "p_silver_chicon",
+    "name": "Silver Chicón",
+    "birth_year": 1989,
+    "path": "data/people/p_silver_chicon.json"
   },
   {
     "id": "p_silver_chung",
@@ -41868,6 +42153,11 @@
     "path": "data/people/p_simisola_opeoluwa.json"
   },
   {
+    "id": "p_simms_may",
+    "name": "Simms May",
+    "path": "data/people/p_simms_may.json"
+  },
+  {
     "id": "p_simo_andre_kadastu",
     "name": "Simo Andre Kadastu",
     "birth_year": 1993,
@@ -42345,6 +42635,11 @@
     "path": "data/people/p_simon_elbaz.json"
   },
   {
+    "id": "p_simon_elias",
+    "name": "Simon Elias",
+    "path": "data/people/p_simon_elias.json"
+  },
+  {
     "id": "p_simon_ellis",
     "name": "Simon Ellis",
     "birth_year": 1900,
@@ -42580,6 +42875,12 @@
     "name": "Simon Hoare",
     "birth_year": 1981,
     "path": "data/people/p_simon_hoare.json"
+  },
+  {
+    "id": "p_simon_holy",
+    "name": "Šimon Holý",
+    "birth_year": 1994,
+    "path": "data/people/p_simon_holy.json"
   },
   {
     "id": "p_simon_horrocks",
@@ -42920,6 +43221,12 @@
     "path": "data/people/p_simon_mesa_soto.json"
   },
   {
+    "id": "p_simon_messner",
+    "name": "Simon Messner",
+    "birth_year": 1990,
+    "path": "data/people/p_simon_messner.json"
+  },
+  {
     "id": "p_simon_mezher",
     "name": "Simon Mezher",
     "birth_year": 1977,
@@ -42979,6 +43286,11 @@
     "path": "data/people/p_simon_norrthon.json"
   },
   {
+    "id": "p_simon_novak",
+    "name": "Šimon Novák",
+    "path": "data/people/p_simon_novak.json"
+  },
+  {
     "id": "p_simon_oakes",
     "name": "Simon Oakes",
     "path": "data/people/p_simon_oakes.json"
@@ -42994,6 +43306,12 @@
     "name": "Simon Olivier Fecteau",
     "birth_year": 1975,
     "path": "data/people/p_simon_olivier_fecteau.json"
+  },
+  {
+    "id": "p_simon_ostermann",
+    "name": "Simon Ostermann",
+    "birth_year": 1985,
+    "path": "data/people/p_simon_ostermann.json"
   },
   {
     "id": "p_simon_otto",
@@ -43485,6 +43803,11 @@
     "path": "data/people/p_simona_binterova.json"
   },
   {
+    "id": "p_simona_boledovicova",
+    "name": "Simona Boledovičová",
+    "path": "data/people/p_simona_boledovicova.json"
+  },
+  {
     "id": "p_simona_borioni",
     "name": "Simona Borioni",
     "birth_year": 1971,
@@ -43579,6 +43902,12 @@
     "id": "p_simona_lisi",
     "name": "Simona Lisi",
     "path": "data/people/p_simona_lisi.json"
+  },
+  {
+    "id": "p_simona_malato",
+    "name": "Simona Malato",
+    "birth_year": 1974,
+    "path": "data/people/p_simona_malato.json"
   },
   {
     "id": "p_simona_malkovska",
@@ -43683,6 +44012,12 @@
     "path": "data/people/p_simona_vrbicka.json"
   },
   {
+    "id": "p_simona_zaharieva",
+    "name": "Simona Zaharieva",
+    "birth_year": 2002,
+    "path": "data/people/p_simona_zaharieva.json"
+  },
+  {
     "id": "p_simona_zetikova",
     "name": "Simona Zetíková",
     "path": "data/people/p_simona_zetikova.json"
@@ -43697,6 +44032,12 @@
     "id": "p_simonas_askelavicius",
     "name": "Simonas Askelavicius",
     "path": "data/people/p_simonas_askelavicius.json"
+  },
+  {
+    "id": "p_simonboy",
+    "name": "Simonboy",
+    "birth_year": 1987,
+    "path": "data/people/p_simonboy.json"
   },
   {
     "id": "p_simone_aaberg_kaern",
@@ -45443,6 +45784,11 @@
     "path": "data/people/p_siva_balaji.json"
   },
   {
+    "id": "p_siva_cherry",
+    "name": "Siva Cherry",
+    "path": "data/people/p_siva_cherry.json"
+  },
+  {
     "id": "p_siva_choy",
     "name": "Siva Choy",
     "birth_year": 1946,
@@ -45698,6 +46044,12 @@
     "path": "data/people/p_sj_evans.json"
   },
   {
+    "id": "p_sjaak",
+    "name": "Sjaak",
+    "birth_year": 1985,
+    "path": "data/people/p_sjaak.json"
+  },
+  {
     "id": "p_sjarel_branckaerts",
     "name": "Sjarel Branckaerts",
     "birth_year": 1947,
@@ -45741,6 +46093,12 @@
     "name": "Sjoukje Hooymaayer",
     "birth_year": 1940,
     "path": "data/people/p_sjoukje_hooymaayer.json"
+  },
+  {
+    "id": "p_sjur_aarthun",
+    "name": "Sjur Aarthun",
+    "birth_year": 1967,
+    "path": "data/people/p_sjur_aarthun.json"
   },
   {
     "id": "p_sjur_paulsen",
@@ -45926,6 +46284,12 @@
     "name": "Sky Hopinka",
     "birth_year": 1983,
     "path": "data/people/p_sky_hopinka.json"
+  },
+  {
+    "id": "p_sky_katz",
+    "name": "Sky Katz",
+    "birth_year": 2004,
+    "path": "data/people/p_sky_katz.json"
   },
   {
     "id": "p_sky_li",
@@ -47275,6 +47639,12 @@
     "path": "data/people/p_sofia_helin.json"
   },
   {
+    "id": "p_sofia_hublitz",
+    "name": "Sofia Hublitz",
+    "birth_year": 2000,
+    "path": "data/people/p_sofia_hublitz.json"
+  },
+  {
     "id": "p_sofia_iacuitto",
     "name": "Sofia Iacuitto",
     "path": "data/people/p_sofia_iacuitto.json"
@@ -47565,6 +47935,12 @@
     "id": "p_sofiane_bennacer",
     "name": "Sofiane Bennacer",
     "path": "data/people/p_sofiane_bennacer.json"
+  },
+  {
+    "id": "p_sofie_anna_svehlikova",
+    "name": "Sofie Anna Švehlíková",
+    "birth_year": 2006,
+    "path": "data/people/p_sofie_anna_svehlikova.json"
   },
   {
     "id": "p_sofie_asplin",
@@ -48803,6 +49179,11 @@
     "name": "Soňa Norisová",
     "birth_year": 1973,
     "path": "data/people/p_sona_norisova.json"
+  },
+  {
+    "id": "p_sona_semradova",
+    "name": "Soňa Semrádová",
+    "path": "data/people/p_sona_semradova.json"
   },
   {
     "id": "p_sona_shahgeldyan",
@@ -50585,6 +50966,11 @@
     "path": "data/people/p_sophia_sporclova.json"
   },
   {
+    "id": "p_sophia_strunga",
+    "name": "Sophia Strunga",
+    "path": "data/people/p_sophia_strunga.json"
+  },
+  {
     "id": "p_sophia_takal",
     "name": "Sophia Takal",
     "birth_year": 1986,
@@ -51457,7 +51843,7 @@
   {
     "id": "p_sophie_thompson",
     "name": "Sophie Thompson",
-    "birth_year": 2006,
+    "birth_year": 1962,
     "path": "data/people/p_sophie_thompson.json"
   },
   {
@@ -52267,6 +52653,11 @@
     "path": "data/people/p_soundos_el_ahmadi.json"
   },
   {
+    "id": "p_soundos_mosbah",
+    "name": "Soundos Mosbah",
+    "path": "data/people/p_soundos_mosbah.json"
+  },
+  {
     "id": "p_soup",
     "name": "Soup",
     "birth_year": 1900,
@@ -52299,6 +52690,11 @@
     "id": "p_sourav_sarangi",
     "name": "Sourav Sarangi",
     "path": "data/people/p_sourav_sarangi.json"
+  },
+  {
+    "id": "p_sousa_domingos",
+    "name": "Sousa Domingos",
+    "path": "data/people/p_sousa_domingos.json"
   },
   {
     "id": "p_sousuke_takaoka",
@@ -52541,6 +52937,11 @@
     "name": "Spencer Lofranco",
     "birth_year": 1992,
     "path": "data/people/p_spencer_lofranco.json"
+  },
+  {
+    "id": "p_spencer_lord",
+    "name": "Spencer Lord",
+    "path": "data/people/p_spencer_lord.json"
   },
   {
     "id": "p_spencer_maybee",
@@ -53806,6 +54207,12 @@
     "name": "Stacy Bloom",
     "birth_year": 1992,
     "path": "data/people/p_stacy_bloom.json"
+  },
+  {
+    "id": "p_stacy_clausen",
+    "name": "Stacy Clausen",
+    "birth_year": 2005,
+    "path": "data/people/p_stacy_clausen.json"
   },
   {
     "id": "p_stacy_cochran",
@@ -56324,6 +56731,12 @@
     "path": "data/people/p_stefano_capuzzi_lapietra.json"
   },
   {
+    "id": "p_stefano_casertano",
+    "name": "Stefano Casertano",
+    "birth_year": 1978,
+    "path": "data/people/p_stefano_casertano.json"
+  },
+  {
     "id": "p_stefano_cassetti",
     "name": "Stefano Cassetti",
     "birth_year": 1974,
@@ -57262,6 +57675,11 @@
     "path": "data/people/p_stella_miranda.json"
   },
   {
+    "id": "p_stella_nwimo",
+    "name": "Stella Nwimo",
+    "path": "data/people/p_stella_nwimo.json"
+  },
+  {
     "id": "p_stella_parton",
     "name": "Stella Parton",
     "birth_year": 1949,
@@ -57272,6 +57690,11 @@
     "name": "Stella Pepper",
     "birth_year": 2004,
     "path": "data/people/p_stella_pepper.json"
+  },
+  {
+    "id": "p_stella_polaskova",
+    "name": "Stella Polášková",
+    "path": "data/people/p_stella_polaskova.json"
   },
   {
     "id": "p_stella_rauan_norrthon",
@@ -57411,6 +57834,11 @@
     "path": "data/people/p_stepan_belozerov.json"
   },
   {
+    "id": "p_stepan_benca",
+    "name": "Štěpán Benca",
+    "path": "data/people/p_stepan_benca.json"
+  },
+  {
     "id": "p_stepan_benoni",
     "name": "Štěpán Benoni",
     "birth_year": 1984,
@@ -57431,6 +57859,17 @@
     "name": "Stepan Devonin",
     "birth_year": 1986,
     "path": "data/people/p_stepan_devonin.json"
+  },
+  {
+    "id": "p_stepan_dostal",
+    "name": "Štepán Dostal",
+    "path": "data/people/p_stepan_dostal.json"
+  },
+  {
+    "id": "p_stepan_gajdos",
+    "name": "Štěpán Gajdoš",
+    "birth_year": 1997,
+    "path": "data/people/p_stepan_gajdos.json"
   },
   {
     "id": "p_stepan_jancar",
@@ -57547,6 +57986,12 @@
     "name": "Štěpán Škorpil",
     "birth_year": 1945,
     "path": "data/people/p_stepan_skorpil.json"
+  },
+  {
+    "id": "p_stepan_tucek",
+    "name": "Štěpán Tuček",
+    "birth_year": 1999,
+    "path": "data/people/p_stepan_tucek.json"
   },
   {
     "id": "p_stepan_uhlir",
@@ -59733,6 +60178,11 @@
     "path": "data/people/p_stephen_eyer.json"
   },
   {
+    "id": "p_stephen_feder",
+    "name": "Stephen Feder",
+    "path": "data/people/p_stephen_feder.json"
+  },
+  {
     "id": "p_stephen_fell",
     "name": "Stephen Fell",
     "path": "data/people/p_stephen_fell.json"
@@ -60528,6 +60978,12 @@
     "path": "data/people/p_stephen_saracco.json"
   },
   {
+    "id": "p_stephen_schneider",
+    "name": "Stephen Schneider",
+    "birth_year": 1980,
+    "path": "data/people/p_stephen_schneider.json"
+  },
+  {
     "id": "p_stephen_schwartz",
     "name": "Stephen Schwartz",
     "birth_year": 1948,
@@ -60725,6 +61181,12 @@
     "name": "Stephen Walters",
     "birth_year": 1975,
     "path": "data/people/p_stephen_walters.json"
+  },
+  {
+    "id": "p_stephen_warbeck",
+    "name": "Stephen Warbeck",
+    "birth_year": 1953,
+    "path": "data/people/p_stephen_warbeck.json"
   },
   {
     "id": "p_stephen_whittaker",
@@ -64828,6 +65290,11 @@
     "path": "data/people/p_su_jin.json"
   },
   {
+    "id": "p_su_kim",
+    "name": "Su Kim",
+    "path": "data/people/p_su_kim.json"
+  },
+  {
     "id": "p_su_kutlu",
     "name": "Su Kutlu",
     "birth_year": 1990,
@@ -66266,6 +66733,12 @@
     "name": "Süleyman Turan",
     "birth_year": 1936,
     "path": "data/people/p_suleyman_turan.json"
+  },
+  {
+    "id": "p_sulfurcretin",
+    "name": "Sulfur-Cretin",
+    "birth_year": 2007,
+    "path": "data/people/p_sulfurcretin.json"
   },
   {
     "id": "p_suli_mccullough",
@@ -69745,6 +70218,12 @@
     "path": "data/people/p_sushmit_ghosh.json"
   },
   {
+    "id": "p_sushmita_konidela",
+    "name": "Sushmita Konidela",
+    "birth_year": 1982,
+    "path": "data/people/p_sushmita_konidela.json"
+  },
+  {
     "id": "p_sushmita_mukherjee",
     "name": "Sushmita Mukherjee",
     "path": "data/people/p_sushmita_mukherjee.json"
@@ -70100,6 +70579,11 @@
     "name": "Suvi-Maaria Virta",
     "birth_year": 1975,
     "path": "data/people/p_suvimaaria_virta.json"
+  },
+  {
+    "id": "p_suvinder_vicky",
+    "name": "Suvinder Vicky",
+    "path": "data/people/p_suvinder_vicky.json"
   },
   {
     "id": "p_suvisini_peltola",
