@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_shep_gordon",
+  "name": "Shep Gordon",
+  "external_ids": {
+    "wikidata": "Q17279326",
+    "imdb": "nm0330607"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}
