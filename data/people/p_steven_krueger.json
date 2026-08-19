@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steven_krueger",
+  "name": "Steven Krueger",
+  "external_ids": {
+    "wikidata": "Q19513752",
+    "imdb": "nm3374941"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

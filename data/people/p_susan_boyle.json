@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_susan_boyle",
+  "name": "Susan Boyle",
+  "external_ids": {
+    "wikidata": "Q83493",
+    "imdb": "nm3409164"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

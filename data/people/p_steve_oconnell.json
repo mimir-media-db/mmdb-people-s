@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_oconnell",
+  "name": "Steve O'Connell",
+  "external_ids": {
+    "wikidata": "Q7613485",
+    "imdb": "nm2254750"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}

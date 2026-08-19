@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel_mercer",
+  "name": "Samuel Mercer",
+  "external_ids": {
+    "wikidata": "Q16675475",
+    "imdb": "nm1750976"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
