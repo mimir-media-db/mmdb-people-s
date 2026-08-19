@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_adams",
+  "name": "Scott Adams",
+  "external_ids": {
+    "wikidata": "Q457923",
+    "imdb": "nm0011346"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957,
+  "death_year": 2026
+}
