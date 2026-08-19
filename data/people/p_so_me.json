@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_so_me",
+  "name": "So Me",
+  "external_ids": {
+    "wikidata": "Q3487245",
+    "imdb": "nm3844788"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
