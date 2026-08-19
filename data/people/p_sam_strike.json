@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_strike",
+  "name": "Sam Strike",
+  "external_ids": {
+    "wikidata": "Q16239318",
+    "imdb": "nm5307635"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

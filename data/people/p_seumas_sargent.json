@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seumas_sargent",
+  "name": "Seumas Sargent",
+  "external_ids": {
+    "wikidata": "Q63099963",
+    "imdb": "nm5194606"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

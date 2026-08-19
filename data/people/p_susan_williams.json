@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_susan_williams",
+  "name": "Susan Williams",
+  "external_ids": {
+    "wikidata": "Q29514607",
+    "imdb": "nm1578086"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
