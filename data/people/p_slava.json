@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_slava",
+  "name": "Slava",
+  "external_ids": {
+    "wikidata": "Q512027",
+    "imdb": "nm1921440"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

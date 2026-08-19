@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sonya_smith",
+  "name": "Sonya Smith",
+  "external_ids": {
+    "wikidata": "Q542574",
+    "imdb": "nm0809991"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sergio_ramos",
+  "name": "Sergio Ramos",
+  "external_ids": {
+    "wikidata": "Q483309",
+    "imdb": "nm2048873"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

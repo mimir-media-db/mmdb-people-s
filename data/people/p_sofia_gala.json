@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sofia_gala",
+  "name": "Sofía Gala",
+  "external_ids": {
+    "wikidata": "Q4310171",
+    "imdb": "nm1078686"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

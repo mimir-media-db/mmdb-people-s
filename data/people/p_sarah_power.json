@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_power",
+  "name": "Sarah Power",
+  "external_ids": {
+    "wikidata": "Q23978733",
+    "imdb": "nm1686536"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
