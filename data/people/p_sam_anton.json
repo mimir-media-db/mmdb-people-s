@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_anton",
+  "name": "Sam Anton",
+  "external_ids": {
+    "wikidata": "Q62059864",
+    "imdb": "nm6818461"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

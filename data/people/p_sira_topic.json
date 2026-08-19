@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sira_topic",
+  "name": "Sira Topic",
+  "external_ids": {
+    "wikidata": "Q111838013",
+    "imdb": "nm5766826"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}

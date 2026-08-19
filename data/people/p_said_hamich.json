@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_said_hamich",
+  "name": "Saïd Hamich",
+  "external_ids": {
+    "wikidata": "Q55381732",
+    "imdb": "nm3607318"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

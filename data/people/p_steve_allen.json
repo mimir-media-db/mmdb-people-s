@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_allen",
+  "name": "Steve Allen",
+  "external_ids": {
+    "wikidata": "Q553276",
+    "imdb": "nm0006752"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1921,
+  "death_year": 2000
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_wentworth",
+  "name": "Scott Wentworth",
+  "external_ids": {
+    "wikidata": "Q7437489",
+    "imdb": "nm0921137"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

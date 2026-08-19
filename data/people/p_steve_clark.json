@@ -3,8 +3,9 @@
   "id": "p_steve_clark",
   "name": "Steve Clark",
   "external_ids": {
-    "wikidata": "Q20676404",
-    "imdb": "nm1467663"
+    "wikidata": "Q367617"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "birth_year": 1960,
+  "death_year": 1991
 }
