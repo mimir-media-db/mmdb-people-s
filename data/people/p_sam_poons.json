@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_poons",
+  "name": "Sam Poons",
+  "external_ids": {
+    "wikidata": "Q114331472",
+    "imdb": "nm4545608"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1859,
+  "death_year": 1932
+}
