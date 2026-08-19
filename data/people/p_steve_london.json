@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_london",
+  "name": "Steve London",
+  "external_ids": {
+    "wikidata": "Q7613180",
+    "imdb": "nm0518785"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1929,
+  "death_year": 2014
+}

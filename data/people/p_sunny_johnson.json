@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sunny_johnson",
+  "name": "Sunny Johnson",
+  "external_ids": {
+    "wikidata": "Q3503936",
+    "imdb": "nm1230879"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953,
+  "death_year": 1984
+}

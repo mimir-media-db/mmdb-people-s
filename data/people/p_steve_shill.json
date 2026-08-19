@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_shill",
+  "name": "Steve Shill",
+  "external_ids": {
+    "wikidata": "Q7613917",
+    "imdb": "nm0793455"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

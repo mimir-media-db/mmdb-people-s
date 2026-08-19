@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_price",
+  "name": "Sarah Price",
+  "external_ids": {
+    "wikidata": "Q7422716",
+    "imdb": "nm0697140"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
