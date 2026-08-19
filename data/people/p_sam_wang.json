@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_wang",
+  "name": "Sam Wang",
+  "external_ids": {
+    "wikidata": "Q717581",
+    "imdb": "nm3497368"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

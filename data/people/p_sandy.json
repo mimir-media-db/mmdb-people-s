@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sandy",
+  "name": "Sandy",
+  "external_ids": {
+    "wikidata": "Q12215259",
+    "imdb": "nm7126662"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
