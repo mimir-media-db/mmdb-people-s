@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_pressman",
+  "name": "Sally Pressman",
+  "external_ids": {
+    "wikidata": "Q2117189",
+    "imdb": "nm1443641"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

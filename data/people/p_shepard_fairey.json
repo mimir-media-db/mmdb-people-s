@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_shepard_fairey",
+  "name": "Shepard Fairey",
+  "external_ids": {
+    "wikidata": "Q1332698",
+    "imdb": "nm1735854"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

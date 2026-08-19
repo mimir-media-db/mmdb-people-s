@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_armstrong",
+  "name": "Simon Armstrong",
+  "external_ids": {
+    "wikidata": "Q19629034",
+    "imdb": "nm1409802"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
