@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_blum",
+  "name": "Steve Blum",
+  "external_ids": {
+    "wikidata": "Q952156",
+    "imdb": "nm0089710"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

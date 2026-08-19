@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_studs_terkel",
+  "name": "Studs Terkel",
+  "external_ids": {
+    "wikidata": "Q529276",
+    "imdb": "nm0855602"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1912,
+  "death_year": 2008
+}
