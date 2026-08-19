@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_sigi_wimala",
-  "name": "Sigi Wimala",
+  "id": "p_stine_fevik",
+  "name": "Stine Fevik",
   "external_ids": {
-    "wikidata": "Q7512134",
-    "imdb": "nm1938461"
+    "wikidata": "Q84996760"
   },
   "last_updated": "2026-08-19",
   "birth_year": 1983

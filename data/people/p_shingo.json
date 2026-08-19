@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_sigi_wimala",
-  "name": "Sigi Wimala",
+  "id": "p_shingo",
+  "name": "Shingo",
   "external_ids": {
-    "wikidata": "Q7512134",
-    "imdb": "nm1938461"
+    "wikidata": "Q11243230"
   },
   "last_updated": "2026-08-19",
   "birth_year": 1983
