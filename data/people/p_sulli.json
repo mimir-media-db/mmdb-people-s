@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sulli",
+  "name": "Sulli",
+  "external_ids": {
+    "wikidata": "Q496501",
+    "imdb": "nm3016345"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994,
+  "death_year": 2019
+}

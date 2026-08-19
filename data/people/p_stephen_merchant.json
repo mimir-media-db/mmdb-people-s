@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stephen_merchant",
+  "name": "Stephen Merchant",
+  "external_ids": {
+    "wikidata": "Q23814",
+    "imdb": "nm0580351"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
