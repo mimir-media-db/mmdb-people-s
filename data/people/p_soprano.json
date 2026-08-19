@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_soprano",
+  "name": "Soprano",
+  "external_ids": {
+    "wikidata": "Q1372291",
+    "imdb": "nm3294831"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

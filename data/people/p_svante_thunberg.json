@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_svante_thunberg",
+  "name": "Svante Thunberg",
+  "external_ids": {
+    "wikidata": "Q56599799",
+    "imdb": "nm2468871"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
