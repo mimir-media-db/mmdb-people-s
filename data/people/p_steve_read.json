@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_read",
+  "name": "Steve Read",
+  "external_ids": {
+    "wikidata": "Q24677569",
+    "imdb": "nm5486153"
+  },
+  "last_updated": "2026-08-19"
+}
