@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_vowell",
+  "name": "Sarah Vowell",
+  "external_ids": {
+    "wikidata": "Q452147",
+    "imdb": "nm1102970"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

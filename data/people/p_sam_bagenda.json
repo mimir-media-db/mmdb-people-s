@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_bagenda",
+  "name": "Sam Bagenda",
+  "external_ids": {
+    "wikidata": "Q93491663",
+    "imdb": "nm11467847"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_wall",
+  "name": "Steve Wall",
+  "external_ids": {
+    "wikidata": "Q55215770",
+    "imdb": "nm2425811"
+  },
+  "last_updated": "2026-08-19"
+}

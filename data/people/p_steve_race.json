@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_race",
+  "name": "Steve Race",
+  "external_ids": {
+    "wikidata": "Q106266019",
+    "imdb": "nm0705058"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_grey",
+  "name": "Sarah Grey",
+  "external_ids": {
+    "wikidata": "Q16238734",
+    "imdb": "nm4152858"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
