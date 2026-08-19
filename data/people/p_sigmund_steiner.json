@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sigmund_steiner",
+  "name": "Sigmund Steiner",
+  "external_ids": {
+    "wikidata": "Q24704602",
+    "imdb": "nm5643902"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
