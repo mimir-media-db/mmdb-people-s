@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sydney_park",
+  "name": "Sydney Park",
+  "external_ids": {
+    "wikidata": "Q3506839",
+    "imdb": "nm2193008"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}

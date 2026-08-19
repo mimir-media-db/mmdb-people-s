@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_bird",
+  "name": "Simon Bird",
+  "external_ids": {
+    "wikidata": "Q591596",
+    "imdb": "nm3020713"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

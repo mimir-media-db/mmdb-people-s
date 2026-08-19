@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sally_carman",
+  "name": "Sally Carman",
+  "external_ids": {
+    "wikidata": "Q7405098",
+    "imdb": "nm0138329"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sarah_snook",
+  "name": "Sarah Snook",
+  "external_ids": {
+    "wikidata": "Q7422787",
+    "imdb": "nm3512758"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

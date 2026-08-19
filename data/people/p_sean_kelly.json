@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sean_kelly",
+  "name": "Sean Kelly",
+  "external_ids": {
+    "wikidata": "Q5905633",
+    "imdb": "nm4885899"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970,
+  "death_year": 2023
+}
