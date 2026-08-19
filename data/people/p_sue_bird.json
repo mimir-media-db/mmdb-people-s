@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sue_bird",
+  "name": "Sue Bird",
+  "external_ids": {
+    "wikidata": "Q240672",
+    "imdb": "nm5566377"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
