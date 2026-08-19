@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_macarthur",
+  "name": "Scott MacArthur",
+  "external_ids": {
+    "wikidata": "Q50185837",
+    "imdb": "nm2509902"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

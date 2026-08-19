@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_soy_kroon",
+  "name": "Soy Kroon",
+  "external_ids": {
+    "wikidata": "Q1835181",
+    "imdb": "nm3780453"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}
