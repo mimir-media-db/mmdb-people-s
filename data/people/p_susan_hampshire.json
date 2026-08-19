@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_susan_hampshire",
+  "name": "Susan Hampshire",
+  "external_ids": {
+    "wikidata": "Q435040",
+    "imdb": "nm0358925"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1937
+}
