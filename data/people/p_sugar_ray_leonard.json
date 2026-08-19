@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sugar_ray_leonard",
+  "name": "Sugar Ray Leonard",
+  "external_ids": {
+    "wikidata": "Q335798",
+    "imdb": "nm0005145"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}

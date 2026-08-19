@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stu_maddux",
+  "name": "Stu Maddux",
+  "external_ids": {
+    "wikidata": "Q7626179",
+    "imdb": "nm2438503"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

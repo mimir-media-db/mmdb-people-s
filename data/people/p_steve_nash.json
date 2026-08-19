@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_nash",
+  "name": "Steve Nash",
+  "external_ids": {
+    "wikidata": "Q192955",
+    "imdb": "nm1161670"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
