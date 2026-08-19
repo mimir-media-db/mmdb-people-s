@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_shuri",
+  "name": "Shuri",
+  "external_ids": {
+    "wikidata": "Q11636727",
+    "imdb": "nm4310161"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}
