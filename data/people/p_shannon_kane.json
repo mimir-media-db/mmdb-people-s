@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_shannon_kane",
+  "name": "Shannon Kane",
+  "external_ids": {
+    "wikidata": "Q512720",
+    "imdb": "nm2000144"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

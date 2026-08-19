@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_parsonson",
+  "name": "Sam Parsonson",
+  "external_ids": {
+    "wikidata": "Q7408005",
+    "imdb": "nm2258245"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

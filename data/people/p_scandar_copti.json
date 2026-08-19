@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scandar_copti",
+  "name": "Scandar Copti",
+  "external_ids": {
+    "wikidata": "Q1658241",
+    "imdb": "nm2738713"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

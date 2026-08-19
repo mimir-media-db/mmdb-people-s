@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel_fuller",
+  "name": "Samuel Fuller",
+  "external_ids": {
+    "wikidata": "Q262479",
+    "imdb": "nm0002087"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1912,
+  "death_year": 1997
+}
