@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sharvari",
+  "name": "Sharvari",
+  "external_ids": {
+    "wikidata": "Q109238721",
+    "imdb": "nm10806242"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
