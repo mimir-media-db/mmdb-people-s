@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seka",
+  "name": "Seka",
+  "external_ids": {
+    "wikidata": "Q255121",
+    "imdb": "nm0782790"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

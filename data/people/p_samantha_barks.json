@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_samantha_barks",
+  "name": "Samantha Barks",
+  "external_ids": {
+    "wikidata": "Q440273",
+    "imdb": "nm2885819"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}
