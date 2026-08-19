@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_wanamaker",
+  "name": "Sam Wanamaker",
+  "external_ids": {
+    "wikidata": "Q1370307",
+    "imdb": "nm0910737"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1919,
+  "death_year": 1993
+}
