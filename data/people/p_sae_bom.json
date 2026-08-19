@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sae_bom",
+  "name": "Sae Bom",
+  "external_ids": {
+    "wikidata": "Q117433162",
+    "imdb": "nm13449812"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}

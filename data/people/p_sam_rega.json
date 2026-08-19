@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_rega",
+  "name": "Sam Rega",
+  "external_ids": {
+    "wikidata": "Q26903625",
+    "imdb": "nm2969590"
+  },
+  "last_updated": "2026-08-19"
+}
