@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_stu_maddux",
-  "name": "Stu Maddux",
+  "id": "p_stephan_bureau",
+  "name": "Stéphan Bureau",
   "external_ids": {
-    "wikidata": "Q7626179",
-    "imdb": "nm2438503"
+    "wikidata": "Q3501509"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1964
