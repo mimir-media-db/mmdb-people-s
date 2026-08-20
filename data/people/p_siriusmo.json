@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_siriusmo",
+  "name": "Siriusmo",
+  "external_ids": {
+    "wikidata": "Q77907",
+    "imdb": "nm3882348"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
+}
