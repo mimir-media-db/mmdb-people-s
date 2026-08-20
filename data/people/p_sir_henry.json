@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sir_henry",
+  "name": "Sir Henry",
+  "external_ids": {
+    "wikidata": "Q1699033",
+    "imdb": "nm0378001"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1964
+}
