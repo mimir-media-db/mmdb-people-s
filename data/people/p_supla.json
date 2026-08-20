@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_supla",
+  "name": "Supla",
+  "external_ids": {
+    "wikidata": "Q504878",
+    "imdb": "nm0839485"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
