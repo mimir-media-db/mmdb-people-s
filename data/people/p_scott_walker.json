@@ -3,9 +3,10 @@
   "id": "p_scott_walker",
   "name": "Scott Walker",
   "external_ids": {
-    "wikidata": "Q13502385",
-    "imdb": "nm1960428"
+    "wikidata": "Q488603",
+    "imdb": "nm0908199"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1971
+  "birth_year": 1943,
+  "death_year": 2019
 }
