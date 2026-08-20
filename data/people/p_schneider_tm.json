@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_schneider_tm",
+  "name": "Schneider TM",
+  "external_ids": {
+    "wikidata": "Q686781",
+    "imdb": "nm3155568"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
