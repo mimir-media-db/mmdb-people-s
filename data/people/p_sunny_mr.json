@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sunny_mr",
+  "name": "Sunny M.R.",
+  "external_ids": {
+    "wikidata": "Q17386287",
+    "imdb": "nm5518590"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1986
+}

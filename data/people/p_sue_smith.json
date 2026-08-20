@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sue_smith",
+  "name": "Sue Smith",
+  "external_ids": {
+    "wikidata": "Q24809547",
+    "imdb": "nm0810055"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}

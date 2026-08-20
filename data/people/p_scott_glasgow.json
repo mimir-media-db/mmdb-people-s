@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_scott_glasgow",
+  "name": "Scott Glasgow",
+  "external_ids": {
+    "wikidata": "Q7436409",
+    "imdb": "nm1557950"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}

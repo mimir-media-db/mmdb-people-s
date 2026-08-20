@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sejo_john",
+  "name": "Sejo John",
+  "external_ids": {
+    "wikidata": "Q7447091",
+    "imdb": "nm5880592"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1983
+}
