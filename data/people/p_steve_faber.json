@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_faber",
+  "name": "Steve Faber",
+  "external_ids": {
+    "wikidata": "Q7612508",
+    "imdb": "nm0264520"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
