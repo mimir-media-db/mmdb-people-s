@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sal_da_vinci",
+  "name": "Sal Da Vinci",
+  "external_ids": {
+    "wikidata": "Q2283974",
+    "imdb": "nm0196328"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
