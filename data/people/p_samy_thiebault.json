@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_sven_mattke",
-  "name": "Sven Mattke",
+  "id": "p_samy_thiebault",
+  "name": "Samy Thiébault",
   "external_ids": {
-    "wikidata": "Q15882545",
-    "imdb": "nm5382576"
+    "wikidata": "Q108571500"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1978
