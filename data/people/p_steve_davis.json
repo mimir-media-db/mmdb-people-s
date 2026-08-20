@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_davis",
+  "name": "Steve Davis",
+  "external_ids": {
+    "wikidata": "Q310450",
+    "imdb": "nm0205506"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
