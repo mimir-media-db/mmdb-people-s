@@ -3,7 +3,9 @@
   "id": "p_scott_lambert",
   "name": "Scott Lambert",
   "external_ids": {
-    "wikidata": "Q42329162"
+    "wikidata": "Q116458006",
+    "imdb": "nm0483300"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
 }
