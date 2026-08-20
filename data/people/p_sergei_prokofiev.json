@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sergei_prokofiev",
+  "name": "Sergei Prokofiev",
+  "external_ids": {
+    "wikidata": "Q49481",
+    "imdb": "nm0006241"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1891,
+  "death_year": 1953
+}

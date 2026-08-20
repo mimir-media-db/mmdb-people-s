@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_star_jones",
+  "name": "Star Jones",
+  "external_ids": {
+    "wikidata": "Q3968304",
+    "imdb": "nm0429274"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
