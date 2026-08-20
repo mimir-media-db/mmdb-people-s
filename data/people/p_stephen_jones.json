@@ -3,7 +3,9 @@
   "id": "p_stephen_jones",
   "name": "Stephen Jones",
   "external_ids": {
-    "wikidata": "Q122790209"
+    "wikidata": "Q125144682",
+    "imdb": "nm4264082"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1985
 }

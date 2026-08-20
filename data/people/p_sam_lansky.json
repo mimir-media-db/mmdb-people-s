@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_lansky",
+  "name": "Sam Lansky",
+  "external_ids": {
+    "wikidata": "Q29452734",
+    "imdb": "nm8609631"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1987
+}
