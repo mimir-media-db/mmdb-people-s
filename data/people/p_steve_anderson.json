@@ -3,8 +3,9 @@
   "id": "p_steve_anderson",
   "name": "Steve Anderson",
   "external_ids": {
-    "wikidata": "Q16150272",
-    "imdb": "nm1317689"
+    "wikidata": "Q1272620"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1906,
+  "death_year": 1988
 }
