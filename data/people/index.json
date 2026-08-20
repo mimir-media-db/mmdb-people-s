@@ -147,6 +147,7 @@
   {
     "id": "p_s_n_swamy",
     "name": "S. N. Swamy",
+    "birth_year": 1910,
     "path": "data/people/p_s_n_swamy.json"
   },
   {
@@ -262,6 +263,11 @@
     "id": "p_s_s_chakravarthy",
     "name": "S. S. Chakravarthy",
     "path": "data/people/p_s_s_chakravarthy.json"
+  },
+  {
+    "id": "p_s_s_kumaran",
+    "name": "S. S. Kumaran",
+    "path": "data/people/p_s_s_kumaran.json"
   },
   {
     "id": "p_s_s_rajamouli",
@@ -1663,7 +1669,7 @@
   {
     "id": "p_sabrina_white",
     "name": "Sabrina White",
-    "birth_year": 1985,
+    "birth_year": 1972,
     "path": "data/people/p_sabrina_white.json"
   },
   {
@@ -4325,6 +4331,12 @@
     "name": "Sala Baker",
     "birth_year": 1976,
     "path": "data/people/p_sala_baker.json"
+  },
+  {
+    "id": "p_salaam_remi",
+    "name": "Salaam Remi",
+    "birth_year": 1972,
+    "path": "data/people/p_salaam_remi.json"
   },
   {
     "id": "p_saladin_dellers",
@@ -7423,6 +7435,11 @@
     "path": "data/people/p_sameer_patil.json"
   },
   {
+    "id": "p_sameer_phaterpekar",
+    "name": "Sameer Phaterpekar",
+    "path": "data/people/p_sameer_phaterpekar.json"
+  },
+  {
     "id": "p_sameer_saxena",
     "name": "Sameer Saxena",
     "birth_year": 1980,
@@ -7717,6 +7734,12 @@
     "id": "p_sami_palolampi",
     "name": "Sami Palolampi",
     "path": "data/people/p_sami_palolampi.json"
+  },
+  {
+    "id": "p_sami_parkkinen",
+    "name": "Sami Parkkinen",
+    "birth_year": 1962,
+    "path": "data/people/p_sami_parkkinen.json"
   },
   {
     "id": "p_sami_ruusukallio",
@@ -10072,6 +10095,12 @@
     "path": "data/people/p_sandor_kardos.json"
   },
   {
+    "id": "p_sandor_marai",
+    "name": "Sándor Márai",
+    "birth_year": 1900,
+    "path": "data/people/p_sandor_marai.json"
+  },
+  {
     "id": "p_sandor_pecsi",
     "name": "Sándor Pécsi",
     "birth_year": 1922,
@@ -10169,7 +10198,7 @@
   {
     "id": "p_sandra_ballesteros",
     "name": "Sandra Ballesteros",
-    "birth_year": 1962,
+    "birth_year": 1963,
     "path": "data/people/p_sandra_ballesteros.json"
   },
   {
@@ -15475,6 +15504,12 @@
     "path": "data/people/p_sarah_kim_gries.json"
   },
   {
+    "id": "p_sarah_kirkegaard",
+    "name": "Sarah Kirkegaard",
+    "birth_year": 1976,
+    "path": "data/people/p_sarah_kirkegaard.json"
+  },
+  {
     "id": "p_sarah_kisawuzi",
     "name": "Sarah Kisawuzi",
     "birth_year": 1948,
@@ -15907,6 +15942,12 @@
     "path": "data/people/p_sarah_schenck.json"
   },
   {
+    "id": "p_sarah_schnier",
+    "name": "Sarah Schnier",
+    "birth_year": 1966,
+    "path": "data/people/p_sarah_schnier.json"
+  },
+  {
     "id": "p_sarah_schroedermatzkin",
     "name": "Sarah Schroeder-Matzkin",
     "path": "data/people/p_sarah_schroedermatzkin.json"
@@ -16162,6 +16203,12 @@
     "path": "data/people/p_sarah_wang.json"
   },
   {
+    "id": "p_sarah_waters",
+    "name": "Sarah Waters",
+    "birth_year": 1966,
+    "path": "data/people/p_sarah_waters.json"
+  },
+  {
     "id": "p_sarah_watt",
     "name": "Sarah Watt",
     "birth_year": 1958,
@@ -16389,6 +16436,11 @@
     "id": "p_saraswati_devi",
     "name": "Saraswati Devi",
     "path": "data/people/p_saraswati_devi.json"
+  },
+  {
+    "id": "p_sarat_nayak",
+    "name": "Sarat Nayak",
+    "path": "data/people/p_sarat_nayak.json"
   },
   {
     "id": "p_sarat_pujari",
@@ -20002,7 +20054,6 @@
   {
     "id": "p_scott_franklin",
     "name": "Scott Franklin",
-    "birth_year": 1949,
     "path": "data/people/p_scott_franklin.json"
   },
   {
@@ -20707,7 +20758,7 @@
   {
     "id": "p_scott_smith",
     "name": "Scott Smith",
-    "birth_year": 1900,
+    "birth_year": 1965,
     "path": "data/people/p_scott_smith.json"
   },
   {
@@ -20777,7 +20828,7 @@
   {
     "id": "p_scott_stuber",
     "name": "Scott Stuber",
-    "birth_year": 1968,
+    "birth_year": 1999,
     "path": "data/people/p_scott_stuber.json"
   },
   {
@@ -22461,7 +22512,7 @@
   {
     "id": "p_sebastian_arrau",
     "name": "Sebastián Arrau",
-    "birth_year": 1973,
+    "birth_year": 1974,
     "path": "data/people/p_sebastian_arrau.json"
   },
   {
@@ -24902,7 +24953,7 @@
   {
     "id": "p_selim_erdogan",
     "name": "Selim Erdoğan",
-    "birth_year": 1972,
+    "birth_year": 1961,
     "path": "data/people/p_selim_erdogan.json"
   },
   {
@@ -25215,6 +25266,12 @@
     "name": "Sema Kapur Chhibber",
     "birth_year": 1999,
     "path": "data/people/p_sema_kapur_chhibber.json"
+  },
+  {
+    "id": "p_sema_kaygusuz",
+    "name": "Sema Kaygusuz",
+    "birth_year": 1972,
+    "path": "data/people/p_sema_kaygusuz.json"
   },
   {
     "id": "p_sema_meray",
@@ -25613,7 +25670,7 @@
   {
     "id": "p_seo_dongwon",
     "name": "Seo Dong-won",
-    "birth_year": 1975,
+    "birth_year": 1979,
     "path": "data/people/p_seo_dongwon.json"
   },
   {
@@ -26905,6 +26962,11 @@
     "path": "data/people/p_sergei_rachmaninoff.json"
   },
   {
+    "id": "p_sergei_sergeyev",
+    "name": "Sergei Sergeyev",
+    "path": "data/people/p_sergei_sergeyev.json"
+  },
+  {
     "id": "p_sergei_serpuhov",
     "name": "Sergei Serpuhov",
     "path": "data/people/p_sergei_serpuhov.json"
@@ -26990,6 +27052,12 @@
     "name": "Sergej Moya",
     "birth_year": 1987,
     "path": "data/people/p_sergej_moya.json"
+  },
+  {
+    "id": "p_sergej_newski",
+    "name": "Sergej Newski",
+    "birth_year": 1972,
+    "path": "data/people/p_sergej_newski.json"
   },
   {
     "id": "p_sergej_sanza",
@@ -27501,6 +27569,12 @@
     "name": "Sergey Mikhalkov",
     "birth_year": 1913,
     "path": "data/people/p_sergey_mikhalkov.json"
+  },
+  {
+    "id": "p_sergey_miklashevskiy",
+    "name": "Sergey Miklashevskiy",
+    "birth_year": 1958,
+    "path": "data/people/p_sergey_miklashevskiy.json"
   },
   {
     "id": "p_sergey_mokritsky",
@@ -28096,7 +28170,7 @@
   {
     "id": "p_sergio_britto",
     "name": "Sérgio Britto",
-    "birth_year": 1923,
+    "birth_year": 1959,
     "path": "data/people/p_sergio_britto.json"
   },
   {
@@ -28400,6 +28474,12 @@
     "name": "Sergio Klainer",
     "birth_year": 1939,
     "path": "data/people/p_sergio_klainer.json"
+  },
+  {
+    "id": "p_sergio_leonardi",
+    "name": "Sergio Leonardi",
+    "birth_year": 1944,
+    "path": "data/people/p_sergio_leonardi.json"
   },
   {
     "id": "p_sergio_leone",
@@ -28934,6 +29014,7 @@
   {
     "id": "p_serhii_lysenko",
     "name": "Serhii Lysenko",
+    "birth_year": 1964,
     "path": "data/people/p_serhii_lysenko.json"
   },
   {
@@ -28957,6 +29038,12 @@
     "id": "p_serhiy_bachyk",
     "name": "Serhiy Bachyk",
     "path": "data/people/p_serhiy_bachyk.json"
+  },
+  {
+    "id": "p_serhiy_dyachenko",
+    "name": "Serhiy Dyachenko",
+    "birth_year": 1945,
+    "path": "data/people/p_serhiy_dyachenko.json"
   },
   {
     "id": "p_serhiy_frolov",
@@ -30846,6 +30933,12 @@
     "path": "data/people/p_shahrnush_parsipur.json"
   },
   {
+    "id": "p_shahrokh_dolkou",
+    "name": "Shahrokh Dolkou",
+    "birth_year": 1964,
+    "path": "data/people/p_shahrokh_dolkou.json"
+  },
+  {
     "id": "p_shahrokh_estakhri",
     "name": "Shahrokh Estakhri",
     "birth_year": 1980,
@@ -32689,6 +32782,12 @@
     "path": "data/people/p_shantilal_soni.json"
   },
   {
+    "id": "p_shantiraj_khosla",
+    "name": "Shantiraj Khosla",
+    "birth_year": 1966,
+    "path": "data/people/p_shantiraj_khosla.json"
+  },
+  {
     "id": "p_shanty",
     "name": "Shanty",
     "birth_year": 1978,
@@ -33091,6 +33190,12 @@
     "path": "data/people/p_sharman_joshi.json"
   },
   {
+    "id": "p_sharman_macdonald",
+    "name": "Sharman Macdonald",
+    "birth_year": 1951,
+    "path": "data/people/p_sharman_macdonald.json"
+  },
+  {
     "id": "p_sharmeen_obaidchinoy",
     "name": "Sharmeen Obaid-Chinoy",
     "birth_year": 1978,
@@ -33145,6 +33250,7 @@
   {
     "id": "p_sharon_alexander",
     "name": "Sharon Alexander",
+    "birth_year": 1962,
     "path": "data/people/p_sharon_alexander.json"
   },
   {
@@ -37162,6 +37268,12 @@
     "name": "Shingo Yamashiro",
     "birth_year": 1938,
     "path": "data/people/p_shingo_yamashiro.json"
+  },
+  {
+    "id": "p_shinho_lee",
+    "name": "Shinho Lee",
+    "birth_year": 1977,
+    "path": "data/people/p_shinho_lee.json"
   },
   {
     "id": "p_shinichi_fujita",
@@ -44409,6 +44521,12 @@
     "path": "data/people/p_simon_kunz.json"
   },
   {
+    "id": "p_simon_lacey",
+    "name": "Simon Lacey",
+    "birth_year": 1975,
+    "path": "data/people/p_simon_lacey.json"
+  },
+  {
     "id": "p_simon_lacroix",
     "name": "Simon Lacroix",
     "birth_year": 1984,
@@ -45021,6 +45139,12 @@
     "name": "Simon Staho",
     "birth_year": 1972,
     "path": "data/people/p_simon_staho.json"
+  },
+  {
+    "id": "p_simon_stockhausen",
+    "name": "Simon Stockhausen",
+    "birth_year": 1967,
+    "path": "data/people/p_simon_stockhausen.json"
   },
   {
     "id": "p_simon_stone",
@@ -45804,6 +45928,11 @@
     "name": "Simone Rapisarda Casanova",
     "birth_year": 1970,
     "path": "data/people/p_simone_rapisarda_casanova.json"
+  },
+  {
+    "id": "p_simone_riccardini",
+    "name": "Simone Riccardini",
+    "path": "data/people/p_simone_riccardini.json"
   },
   {
     "id": "p_simone_riccioni",
@@ -47533,6 +47662,12 @@
     "path": "data/people/p_sjoerd_de_bont.json"
   },
   {
+    "id": "p_sjoerd_kuyper",
+    "name": "Sjoerd Kuyper",
+    "birth_year": 1952,
+    "path": "data/people/p_sjoerd_kuyper.json"
+  },
+  {
     "id": "p_sjoerd_pleijsier",
     "name": "Sjoerd Pleijsier",
     "birth_year": 1954,
@@ -48518,6 +48653,12 @@
     "name": "Smith Cho",
     "birth_year": 1985,
     "path": "data/people/p_smith_cho.json"
+  },
+  {
+    "id": "p_smokey_hormel",
+    "name": "Smokey Hormel",
+    "birth_year": 1958,
+    "path": "data/people/p_smokey_hormel.json"
   },
   {
     "id": "p_smokey_robinson",
@@ -49721,6 +49862,12 @@
     "name": "Sohail Sameer",
     "birth_year": 1980,
     "path": "data/people/p_sohail_sameer.json"
+  },
+  {
+    "id": "p_sohail_sen",
+    "name": "Sohail Sen",
+    "birth_year": 1984,
+    "path": "data/people/p_sohail_sen.json"
   },
   {
     "id": "p_sohail_tatari",
@@ -55481,7 +55628,7 @@
   {
     "id": "p_srinath",
     "name": "Srinath",
-    "birth_year": 1944,
+    "birth_year": 1968,
     "path": "data/people/p_srinath.json"
   },
   {
@@ -56329,6 +56476,12 @@
     "path": "data/people/p_stanisaw_dziedzic.json"
   },
   {
+    "id": "p_stanisaw_dziwisz",
+    "name": "Stanisław Dziwisz",
+    "birth_year": 1939,
+    "path": "data/people/p_stanisaw_dziwisz.json"
+  },
+  {
     "id": "p_stanisaw_jaskuka",
     "name": "Stanisław Jaskułka",
     "birth_year": 1948,
@@ -56363,6 +56516,12 @@
     "name": "Stanisław Penksyk",
     "birth_year": 1950,
     "path": "data/people/p_stanisaw_penksyk.json"
+  },
+  {
+    "id": "p_stanisaw_radwan",
+    "name": "Stanisław Radwan",
+    "birth_year": 1939,
+    "path": "data/people/p_stanisaw_radwan.json"
   },
   {
     "id": "p_stanisaw_sojka",
@@ -58770,6 +58929,12 @@
     "path": "data/people/p_stefano_grossi.json"
   },
   {
+    "id": "p_stefano_ianne",
+    "name": "Stefano Ianne",
+    "birth_year": 1963,
+    "path": "data/people/p_stefano_ianne.json"
+  },
+  {
     "id": "p_stefano_incerti",
     "name": "Stefano Incerti",
     "birth_year": 1965,
@@ -60286,6 +60451,12 @@
     "name": "Stephan Möller-Titel",
     "birth_year": 1977,
     "path": "data/people/p_stephan_mollertitel.json"
+  },
+  {
+    "id": "p_stephan_oliva",
+    "name": "Stephan Oliva",
+    "birth_year": 1958,
+    "path": "data/people/p_stephan_oliva.json"
   },
   {
     "id": "p_stephan_parent",
@@ -62116,6 +62287,12 @@
     "path": "data/people/p_stephen_daldry.json"
   },
   {
+    "id": "p_stephen_daltry",
+    "name": "Stephen Daltry",
+    "birth_year": 1960,
+    "path": "data/people/p_stephen_daltry.json"
+  },
+  {
     "id": "p_stephen_damian",
     "name": "Stephen Damian",
     "path": "data/people/p_stephen_damian.json"
@@ -63018,6 +63195,12 @@
     "name": "Stephen Polk",
     "birth_year": 1959,
     "path": "data/people/p_stephen_polk.json"
+  },
+  {
+    "id": "p_stephen_potts",
+    "name": "Stephen Potts",
+    "birth_year": 1957,
+    "path": "data/people/p_stephen_potts.json"
   },
   {
     "id": "p_stephen_purvis",
@@ -64061,6 +64244,12 @@
     "path": "data/people/p_steve_ditko.json"
   },
   {
+    "id": "p_steve_dorff",
+    "name": "Steve Dorff",
+    "birth_year": 1949,
+    "path": "data/people/p_steve_dorff.json"
+  },
+  {
     "id": "p_steve_douzos",
     "name": "Steve Douzos",
     "birth_year": 1959,
@@ -64394,7 +64583,7 @@
   {
     "id": "p_steve_jones",
     "name": "Steve Jones",
-    "birth_year": 1955,
+    "birth_year": 1977,
     "path": "data/people/p_steve_jones.json"
   },
   {
@@ -64750,7 +64939,7 @@
   {
     "id": "p_steve_moore",
     "name": "Steve Moore",
-    "birth_year": 1964,
+    "birth_year": 1974,
     "path": "data/people/p_steve_moore.json"
   },
   {
@@ -67495,6 +67684,12 @@
     "path": "data/people/p_stuart_mcquarrie.json"
   },
   {
+    "id": "p_stuart_michael_thomas",
+    "name": "Stuart Michael Thomas",
+    "birth_year": 1970,
+    "path": "data/people/p_stuart_michael_thomas.json"
+  },
+  {
     "id": "p_stuart_milligan",
     "name": "Stuart Milligan",
     "birth_year": 1953,
@@ -67559,6 +67754,7 @@
   {
     "id": "p_stuart_ross",
     "name": "Stuart Ross",
+    "birth_year": 1958,
     "path": "data/people/p_stuart_ross.json"
   },
   {
@@ -67929,7 +68125,7 @@
   {
     "id": "p_subhashree_ganguly",
     "name": "Subhashree Ganguly",
-    "birth_year": 1990,
+    "birth_year": 1988,
     "path": "data/people/p_subhashree_ganguly.json"
   },
   {
@@ -70966,7 +71162,7 @@
   {
     "id": "p_suresh_krishna",
     "name": "Suresh Krishna",
-    "birth_year": 1959,
+    "birth_year": 1973,
     "path": "data/people/p_suresh_krishna.json"
   },
   {
@@ -72578,7 +72774,7 @@
   {
     "id": "p_susanne_muller",
     "name": "Susanne Müller",
-    "birth_year": 1949,
+    "birth_year": 1957,
     "path": "data/people/p_susanne_muller.json"
   },
   {
@@ -73951,6 +74147,11 @@
     "name": "Svein Scharffenberg",
     "birth_year": 1939,
     "path": "data/people/p_svein_scharffenberg.json"
+  },
+  {
+    "id": "p_svein_schultz",
+    "name": "Svein Schultz",
+    "path": "data/people/p_svein_schultz.json"
   },
   {
     "id": "p_svein_tindberg",
@@ -75482,6 +75683,12 @@
     "path": "data/people/p_syed_mohammad_ahmed.json"
   },
   {
+    "id": "p_syed_mustafa_siraj",
+    "name": "Syed Mustafa Siraj",
+    "birth_year": 1930,
+    "path": "data/people/p_syed_mustafa_siraj.json"
+  },
+  {
     "id": "p_syed_noor",
     "name": "Syed Noor",
     "birth_year": 1951,
@@ -76118,6 +76325,12 @@
     "name": "Sylvie Boucher",
     "birth_year": 1955,
     "path": "data/people/p_sylvie_boucher.json"
+  },
+  {
+    "id": "p_sylvie_bourgeois",
+    "name": "Sylvie Bourgeois",
+    "birth_year": 1961,
+    "path": "data/people/p_sylvie_bourgeois.json"
   },
   {
     "id": "p_sylvie_dauphinais",
