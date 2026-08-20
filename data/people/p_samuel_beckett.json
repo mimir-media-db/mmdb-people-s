@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel_beckett",
+  "name": "Samuel Beckett",
+  "external_ids": {
+    "wikidata": "Q37327",
+    "imdb": "nm0065716"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1906,
+  "death_year": 1989
+}

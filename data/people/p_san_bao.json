@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_san_bao",
+  "name": "San Bao",
+  "external_ids": {
+    "wikidata": "Q3471363",
+    "imdb": "nm0760753"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1968
+}
