@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stephen_marley",
+  "name": "Stephen Marley",
+  "external_ids": {
+    "wikidata": "Q468677",
+    "imdb": "nm1886328"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
