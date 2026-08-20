@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_simon_yates",
-  "name": "Simon Yates",
+  "id": "p_scott_kosar",
+  "name": "Scott Kosar",
   "external_ids": {
-    "wikidata": "Q923301"
+    "wikidata": "Q1313744",
+    "imdb": "nm0466925"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1962

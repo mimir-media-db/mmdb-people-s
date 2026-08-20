@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_skip_james",
+  "name": "Skip James",
+  "external_ids": {
+    "wikidata": "Q380289",
+    "imdb": "nm1037351"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1902,
+  "death_year": 1969
+}
