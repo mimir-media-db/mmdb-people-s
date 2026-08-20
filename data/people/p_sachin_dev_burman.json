@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sachin_dev_burman",
+  "name": "Sachin Dev Burman",
+  "external_ids": {
+    "wikidata": "Q2723913",
+    "imdb": "nm0005984"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1906,
+  "death_year": 1975
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_munnery",
+  "name": "Simon Munnery",
+  "external_ids": {
+    "wikidata": "Q7519401",
+    "imdb": "nm0612979"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
