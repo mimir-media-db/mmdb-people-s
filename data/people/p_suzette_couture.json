@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_suzette_couture",
+  "name": "Suzette Couture",
+  "external_ids": {
+    "wikidata": "Q64729741",
+    "imdb": "nm0184302"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1946
+}

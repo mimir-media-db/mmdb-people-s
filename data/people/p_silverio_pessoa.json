@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_silverio_pessoa",
+  "name": "Silvério Pessoa",
+  "external_ids": {
+    "wikidata": "Q10371612",
+    "imdb": "nm1166953"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
