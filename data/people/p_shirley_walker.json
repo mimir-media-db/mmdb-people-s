@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_shirley_walker",
+  "name": "Shirley Walker",
+  "external_ids": {
+    "wikidata": "Q268427",
+    "imdb": "nm0002980"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1945,
+  "death_year": 2006
+}

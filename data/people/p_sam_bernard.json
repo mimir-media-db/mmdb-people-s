@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_bernard",
+  "name": "Sam Bernard",
+  "external_ids": {
+    "wikidata": "Q7407184",
+    "imdb": "nm0076382"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1863,
+  "death_year": 1927
+}
