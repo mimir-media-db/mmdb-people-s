@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_slow",
+  "name": "Slow",
+  "external_ids": {
+    "wikidata": "Q2839087",
+    "imdb": "nm1270206"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
+}
