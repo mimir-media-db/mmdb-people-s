@@ -3,8 +3,10 @@
   "id": "p_sarah_harding",
   "name": "Sarah Harding",
   "external_ids": {
-    "wikidata": "Q79414100",
-    "imdb": "nm0362395"
+    "wikidata": "Q254962",
+    "imdb": "nm1282067"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1981,
+  "death_year": 2021
 }
