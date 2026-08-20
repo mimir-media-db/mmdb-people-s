@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_lynch",
+  "name": "Steve Lynch",
+  "external_ids": {
+    "wikidata": "Q1535872",
+    "imdb": "nm2251802"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}

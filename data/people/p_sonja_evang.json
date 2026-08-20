@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sonja_evang",
+  "name": "Sonja Evang",
+  "external_ids": {
+    "wikidata": "Q105038308",
+    "imdb": "nm6546824"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
+}
