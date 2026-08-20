@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_said_legue",
-  "name": "Said Legue",
+  "id": "p_shaul_bustan",
+  "name": "Shaul Bustan",
   "external_ids": {
-    "wikidata": "Q5944237",
-    "imdb": "nm2234835"
+    "wikidata": "Q25927218"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1982
