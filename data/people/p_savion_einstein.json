@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_savion_einstein",
+  "name": "Savion Einstein",
+  "external_ids": {
+    "wikidata": "Q96678502",
+    "imdb": "nm8769865"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1982
+}

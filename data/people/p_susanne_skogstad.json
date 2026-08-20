@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_sam_woolf",
-  "name": "Sam Woolf",
+  "id": "p_susanne_skogstad",
+  "name": "Susanne Skogstad",
   "external_ids": {
-    "wikidata": "Q124460584",
-    "imdb": "nm8140982"
+    "wikidata": "Q56648547"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1991
