@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_steve_smith",
+  "name": "Steve Smith",
+  "external_ids": {
+    "wikidata": "Q3499112",
+    "imdb": "nm0810019"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1945
+}
