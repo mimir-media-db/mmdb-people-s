@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sandor_marai",
+  "name": "Sándor Márai",
+  "external_ids": {
+    "wikidata": "Q36951",
+    "imdb": "nm0617252"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1900,
+  "death_year": 1989
+}
