@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_simona_malato",
-  "name": "Simona Malato",
+  "id": "p_simon_caby",
+  "name": "Simon Caby",
   "external_ids": {
-    "wikidata": "Q126949011"
+    "wikidata": "Q3484230",
+    "imdb": "nm3797491"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1974
