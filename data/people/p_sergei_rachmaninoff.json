@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sergei_rachmaninoff",
+  "name": "Sergei Rachmaninoff",
+  "external_ids": {
+    "wikidata": "Q131861",
+    "imdb": "nm0006245"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1873,
+  "death_year": 1943
+}
