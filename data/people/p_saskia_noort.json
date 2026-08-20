@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_sonny_tulung",
-  "name": "Sonny Tulung",
+  "id": "p_saskia_noort",
+  "name": "Saskia Noort",
   "external_ids": {
-    "wikidata": "Q12515907"
+    "wikidata": "Q467614",
+    "imdb": "nm1872639"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1967
