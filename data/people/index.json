@@ -2080,7 +2080,7 @@
   {
     "id": "p_sachin_gupta",
     "name": "Sachin Gupta",
-    "birth_year": 1981,
+    "birth_year": 1978,
     "path": "data/people/p_sachin_gupta.json"
   },
   {
@@ -5247,7 +5247,7 @@
   {
     "id": "p_saloni_aswani",
     "name": "Saloni Aswani",
-    "birth_year": 1977,
+    "birth_year": 1987,
     "path": "data/people/p_saloni_aswani.json"
   },
   {
@@ -12096,7 +12096,7 @@
   {
     "id": "p_sanjay_rawal",
     "name": "Sanjay Rawal",
-    "birth_year": 1966,
+    "birth_year": 1974,
     "path": "data/people/p_sanjay_rawal.json"
   },
   {
@@ -19911,6 +19911,7 @@
   {
     "id": "p_scott_alexander",
     "name": "Scott Alexander",
+    "birth_year": 1963,
     "path": "data/people/p_scott_alexander.json"
   },
   {
@@ -20327,6 +20328,7 @@
   {
     "id": "p_scott_franklin",
     "name": "Scott Franklin",
+    "birth_year": 1949,
     "path": "data/people/p_scott_franklin.json"
   },
   {
@@ -30603,6 +30605,7 @@
   {
     "id": "p_shaan",
     "name": "Shaan",
+    "birth_year": 1972,
     "path": "data/people/p_shaan.json"
   },
   {
@@ -33934,7 +33937,7 @@
   {
     "id": "p_sharon_maymon",
     "name": "Sharon Maymon",
-    "birth_year": 1971,
+    "birth_year": 1973,
     "path": "data/people/p_sharon_maymon.json"
   },
   {
@@ -34608,8 +34611,8 @@
   },
   {
     "id": "p_shauna_macdonald",
-    "name": "Shauna MacDonald",
-    "birth_year": 1970,
+    "name": "Shauna Macdonald",
+    "birth_year": 1981,
     "path": "data/people/p_shauna_macdonald.json"
   },
   {
@@ -40124,7 +40127,7 @@
   {
     "id": "p_shree_krishna_shrestha",
     "name": "Shree Krishna Shrestha",
-    "birth_year": 1970,
+    "birth_year": 1967,
     "path": "data/people/p_shree_krishna_shrestha.json"
   },
   {
@@ -45455,7 +45458,7 @@
   {
     "id": "p_simon_phillips",
     "name": "Simon Phillips",
-    "birth_year": 1957,
+    "birth_year": 1980,
     "path": "data/people/p_simon_phillips.json"
   },
   {
@@ -53718,7 +53721,7 @@
   {
     "id": "p_sophie_evans",
     "name": "Sophie Evans",
-    "birth_year": 1976,
+    "birth_year": 1993,
     "path": "data/people/p_sophie_evans.json"
   },
   {
@@ -56207,7 +56210,7 @@
   {
     "id": "p_srijit_mukherji",
     "name": "Srijit Mukherji",
-    "birth_year": 1977,
+    "birth_year": 1970,
     "path": "data/people/p_srijit_mukherji.json"
   },
   {
@@ -58549,7 +58552,7 @@
   {
     "id": "p_stefan_ivanov",
     "name": "Stefan Ivanov",
-    "birth_year": 1953,
+    "birth_year": 1976,
     "path": "data/people/p_stefan_ivanov.json"
   },
   {
@@ -59002,6 +59005,7 @@
   {
     "id": "p_stefan_schneider",
     "name": "Stefan Schneider",
+    "birth_year": 1959,
     "path": "data/people/p_stefan_schneider.json"
   },
   {
@@ -65241,7 +65245,7 @@
   {
     "id": "p_steve_harris",
     "name": "Steve Harris",
-    "birth_year": 1965,
+    "birth_year": 1956,
     "path": "data/people/p_steve_harris.json"
   },
   {
@@ -65404,7 +65408,7 @@
   {
     "id": "p_steve_jones",
     "name": "Steve Jones",
-    "birth_year": 1977,
+    "birth_year": 1971,
     "path": "data/people/p_steve_jones.json"
   },
   {
@@ -66981,7 +66985,7 @@
   {
     "id": "p_steven_m_smith",
     "name": "Steven M. Smith",
-    "birth_year": 1974,
+    "birth_year": 1950,
     "path": "data/people/p_steven_m_smith.json"
   },
   {
@@ -69031,7 +69035,7 @@
   {
     "id": "p_subhashree_ganguly",
     "name": "Subhashree Ganguly",
-    "birth_year": 1988,
+    "birth_year": 1990,
     "path": "data/people/p_subhashree_ganguly.json"
   },
   {
@@ -72026,6 +72030,7 @@
   {
     "id": "p_suresh",
     "name": "Suresh",
+    "birth_year": 1964,
     "path": "data/people/p_suresh.json"
   },
   {
