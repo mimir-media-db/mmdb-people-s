@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_seamus_egan",
+  "name": "Séamus Egan",
+  "external_ids": {
+    "wikidata": "Q3509904",
+    "imdb": "nm0250738"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
