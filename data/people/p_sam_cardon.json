@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sam_cardon",
+  "name": "Sam Cardon",
+  "external_ids": {
+    "wikidata": "Q7407292",
+    "imdb": "nm0136550"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}
