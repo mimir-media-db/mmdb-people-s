@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_serge_gainsbourg",
+  "name": "Serge Gainsbourg",
+  "external_ids": {
+    "wikidata": "Q1698",
+    "imdb": "nm0006092"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1928,
+  "death_year": 1991
+}
