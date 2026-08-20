@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_shelby_steele",
+  "name": "Shelby Steele",
+  "external_ids": {
+    "wikidata": "Q7493417",
+    "imdb": "nm2405428"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1945
+}
