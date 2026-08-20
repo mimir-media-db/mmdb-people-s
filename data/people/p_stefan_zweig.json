@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_stefan_zweig",
+  "name": "Stefan Zweig",
+  "external_ids": {
+    "wikidata": "Q78491",
+    "imdb": "nm0959003"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1881,
+  "death_year": 1942
+}
