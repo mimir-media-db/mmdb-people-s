@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_sameer",
+  "name": "Sameer",
+  "external_ids": {
+    "wikidata": "Q3470753",
+    "imdb": "nm0759785"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}
