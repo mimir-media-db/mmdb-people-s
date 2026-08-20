@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_sacha_guitry",
+  "name": "Sacha Guitry",
+  "external_ids": {
+    "wikidata": "Q337276",
+    "imdb": "nm0347589"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1885,
+  "death_year": 1957
+}
