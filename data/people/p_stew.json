@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_stew",
+  "name": "Stew",
+  "external_ids": {
+    "wikidata": "Q7615646",
+    "imdb": "nm3027563"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
