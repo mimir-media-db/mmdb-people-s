@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_simon_blackwell",
+  "name": "Simon Blackwell",
+  "external_ids": {
+    "wikidata": "Q7518291",
+    "imdb": "nm1006581"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
