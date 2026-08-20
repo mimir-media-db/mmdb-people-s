@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_samuel_barber",
+  "name": "Samuel Barber",
+  "external_ids": {
+    "wikidata": "Q216870",
+    "imdb": "nm0053462"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1910,
+  "death_year": 1981
+}
