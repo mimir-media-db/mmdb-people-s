@@ -6992,7 +6992,7 @@
   {
     "id": "p_sam_woolf",
     "name": "Sam Woolf",
-    "birth_year": 1991,
+    "birth_year": 1990,
     "path": "data/people/p_sam_woolf.json"
   },
   {
@@ -43263,6 +43263,11 @@
     "path": "data/people/p_sidney_magal.json"
   },
   {
+    "id": "p_sidney_mandros",
+    "name": "Sidney Mandros",
+    "path": "data/people/p_sidney_mandros.json"
+  },
+  {
     "id": "p_sidney_mansa_winters",
     "name": "Sidney Mansa Winters",
     "path": "data/people/p_sidney_mansa_winters.json"
@@ -51123,6 +51128,12 @@
     "path": "data/people/p_socratis_otto.json"
   },
   {
+    "id": "p_soda_voyu",
+    "name": "Soda Voyu",
+    "birth_year": 1981,
+    "path": "data/people/p_soda_voyu.json"
+  },
+  {
     "id": "p_sodadeth_san",
     "name": "Sodadeth San",
     "path": "data/people/p_sodadeth_san.json"
@@ -57770,7 +57781,7 @@
   {
     "id": "p_srijit_mukherji",
     "name": "Srijit Mukherji",
-    "birth_year": 1977,
+    "birth_year": 1970,
     "path": "data/people/p_srijit_mukherji.json"
   },
   {
@@ -70927,7 +70938,7 @@
   {
     "id": "p_subhashree_ganguly",
     "name": "Subhashree Ganguly",
-    "birth_year": 1990,
+    "birth_year": 1988,
     "path": "data/people/p_subhashree_ganguly.json"
   },
   {
