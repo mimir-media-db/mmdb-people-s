@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_soda_voyu",
+  "name": "Soda Voyu",
+  "external_ids": {
+    "wikidata": "Q15898049",
+    "imdb": "nm4690048"
+  },
+  "last_updated": "2026-08-22",
+  "birth_year": 1981
+}
